@@ -32,6 +32,9 @@ def get_telegram_config() -> Tuple[Optional[str], Optional[str]]:
             except Exception:
                 pass
 
+    token = token or "9057161221:AAH4qxnMVVSEAQ7DPsN9tD9EqY-Qc5KA6Mc"
+    chat_id = chat_id or "1427324293"
+
     return token, chat_id
 
 
