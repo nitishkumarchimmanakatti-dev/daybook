@@ -1,0 +1,963 @@
+VTU Internship Daily Diary — Edutainer
+Artificial Intelligence Intern (Entry Level) | 03 Aug 2026 – 30 Nov 2026 | 120 entries
+Updated draft using the VTU portal fields shown in the supplied screenshots. The diary covers 03 August 2026 to 30 November 2026 (120 entries). Every day uses the same Skills Used: HTML, CSS, ReactJS. Hours are drafted at 6.5/day and should be changed to the student's actual hours before submission.
+Day 1 — 03 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed internship objectives, AI learning workflow, expected deliverables, communication process, and daily documentation requirements.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood the internship workflow, AI learning objectives, and the role of artificial intelligence in practical applications.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 2 — 04 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied the meaning of Artificial Intelligence and reviewed major AI application areas such as education, healthcare, finance, automation, and recommendation systems.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how Python supports AI development and practiced basic variables, data types, and input/output operations.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 3 — 05 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI at a foundational level.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied conditional statements and loops to create simple logic required for AI-oriented programs.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 4 — 06 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied intelligent agents, environments, goals, inputs, outputs, and basic AI problem-solving approaches.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned to organize reusable Python code using functions and basic modular programming techniques.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 5 — 07 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed the general AI project lifecycle from problem definition and data collection through modelling, evaluation, and documentation.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Practiced Python lists, tuples, dictionaries, and sets for storing and manipulating structured information.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 6 — 08 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Set up the Python development environment and reviewed notebooks, scripts, packages, and basic project organization.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how to handle strings and files in Python for preparing data used in AI workflows.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 7 — 09 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced Python variables, data types, operators, input/output, and type conversion through small exercises.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Used exception handling and debugging techniques to identify and correct common Python programming errors.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 8 — 10 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced conditional statements and loops to implement basic decision-making and repetitive processing.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned object-oriented programming concepts such as classes, objects, methods, and attributes in Python.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 9 — 11 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Worked with functions, parameters, return values, local scope, and reusable programming logic.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied intermediate Python concepts to build small data-processing utilities and strengthen programming logic.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 10 — 12 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced lists, tuples, sets, dictionaries, and string operations for handling structured data.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Improved code readability by using modules, packages, comprehensions, and structured program organization.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 11 — 13 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced list and dictionary comprehensions and cleaner Python coding patterns.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how NumPy arrays differ from standard Python lists and why vectorized computation is useful in AI.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 12 — 14 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Worked with modules, imports, exceptions, and basic error-handling techniques.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Created and manipulated one-dimensional and multi-dimensional NumPy arrays using indexing and slicing.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 13 — 15 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Used file handling to read, write, and organize structured text and data files.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Performed mathematical operations on arrays using broadcasting and universal functions.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 14 — 16 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced object-oriented programming concepts using simple AI-related examples.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned matrix operations, reshaping, transposing, and aggregation techniques for numerical AI tasks.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 15 — 17 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Completed a small Python exercise combining functions, collections, file handling, and exception handling.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied NumPy to efficiently prepare numerical datasets for later machine learning experiments.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 16 — 18 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced NumPy arrays and compared them with standard Python lists for numerical work.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the purpose of Pandas Series and DataFrames for handling tabular datasets.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 17 — 19 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced array creation, indexing, slicing, reshaping, and data types.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Imported datasets into Pandas and inspected columns, data types, dimensions, and basic records.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 18 — 20 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Performed vectorized arithmetic, aggregation, and statistical operations using NumPy.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Practiced filtering, sorting, selecting, and transforming rows and columns in DataFrames.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 19 — 21 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Worked with matrix operations, broadcasting, and numerical transformations.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned to handle missing values, duplicates, and inconsistent entries in structured datasets.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 20 — 22 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Built a small numerical-data exercise using NumPy and reviewed the resulting values.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Used grouping, aggregation, merging, and exporting techniques to prepare datasets for analysis.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 21 — 23 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced Pandas Series and DataFrame structures for AI and machine-learning data preparation.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how charts help reveal patterns and relationships that may not be obvious in raw data.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 22 — 24 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Loaded CSV-style datasets and inspected rows, columns, data types, and summary statistics.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Created basic line, bar, histogram, and scatter visualizations from prepared datasets.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 23 — 25 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced filtering, sorting, selecting columns, and creating derived fields.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Performed exploratory data analysis to identify distributions, unusual values, and potential data-quality issues.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 24 — 26 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Handled missing values, duplicates, and inconsistent records during basic data cleaning.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Compared numerical variables using correlation analysis and visual inspection of relationships.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 25 — 27 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared a cleaned DataFrame and documented the preprocessing decisions.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Summarized EDA findings and learned how visual evidence can guide feature and model selection.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 26 — 28 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied why visualization is important for understanding datasets before model development.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the meaning of mean, median, mode, variance, and standard deviation in data analysis.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 27 — 29 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Created line, bar, and scatter visualizations for exploratory data analysis.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood probability concepts and used them to reason about uncertainty in AI predictions.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 28 — 30 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Used histograms and box plots to inspect distributions and possible outliers.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the difference between population and sample statistics and why sampling matters.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 29 — 31 August 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared variables using charts and interpreted trends, spread, and relationships.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Studied probability distributions and recognized how data distributions affect model behavior.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 30 — 01 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared an exploratory visualization summary and documented important observations.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied basic statistical reasoning to interpret datasets and evaluate whether observed patterns were meaningful.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 31 — 02 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed mean, median, mode, range, variance, and standard deviation.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the machine learning workflow from problem definition and data preparation to training and evaluation.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 32 — 03 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied probability concepts and their relevance to AI and machine-learning decisions.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Distinguished between supervised, unsupervised, and reinforcement learning based on the type of available feedback.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 33 — 04 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Explored correlation and interpreted relationships between numerical variables.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood training data, test data, features, targets, and the purpose of a baseline model.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 34 — 05 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied sampling, distributions, and the importance of representative datasets.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned why overfitting and underfitting occur and how model complexity affects generalization.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 35 — 06 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Applied descriptive statistics to a sample dataset and summarized the findings.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Built a basic end-to-end machine learning workflow using a prepared dataset and evaluation step.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 36 — 07 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced supervised, unsupervised, and reinforcement learning with practical examples.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how linear regression models relationships between input variables and a continuous target.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 37 — 08 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied the machine-learning workflow including features, targets, training, validation, and testing.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Prepared sample data for regression and identified suitable features and target variables.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 38 — 09 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Learned the purpose of training, validation, and test datasets.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Trained a linear regression model and interpreted its coefficients as estimated feature effects.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 39 — 10 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied overfitting, underfitting, bias, variance, and model generalization.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned to evaluate regression predictions using metrics such as MAE, MSE, RMSE, and R-squared.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 40 — 11 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Built a simple baseline machine-learning workflow and reviewed its limitations.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Compared predicted and actual values to identify where a regression model performed poorly.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 41 — 12 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied the intuition and workflow of linear regression for continuous-value prediction.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how logistic regression can be used to predict class probabilities for binary classification.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 42 — 13 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared numerical features and a target variable for a regression task.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Prepared labeled data for classification and understood the importance of consistent target encoding.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 43 — 14 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Trained a basic regression model and examined predicted values.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Trained a classification model and examined predicted classes and probability outputs.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 44 — 15 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed MAE, MSE, RMSE, and R² as regression evaluation measures.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned to evaluate classification using accuracy, precision, recall, and F1-score.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 45 — 16 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared predicted and actual values and documented model observations.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Interpreted a confusion matrix to understand false positives, false negatives, and correct predictions.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 46 — 17 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced classification problems and binary versus multiclass targets.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned why preprocessing is necessary before feeding many machine learning algorithms with data.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 47 — 18 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied logistic regression and its use for classification tasks.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied numerical scaling techniques so features with different ranges could be compared fairly.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 48 — 19 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared labels and trained a basic classification model.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how categorical variables can be converted into numerical representations using encoding.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 49 — 20 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed confusion matrix, accuracy, precision, recall, and F1-score.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Built a preprocessing workflow that separates transformation steps from model training.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 50 — 21 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Evaluated a classification model and identified possible improvement areas.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Recognized how data leakage can produce misleadingly high evaluation results and learned to avoid it.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 51 — 22 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied the importance of preprocessing before machine-learning training.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how feature engineering can transform raw information into more useful model inputs.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 52 — 23 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced numerical feature scaling and compared common scaling approaches.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Created derived features from existing variables to capture relationships more effectively.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 53 — 24 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Worked with categorical variables using encoding techniques.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Compared feature selection and feature extraction and understood their different purposes.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 54 — 25 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed train-test splitting and the importance of avoiding data leakage.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how domain-based features can improve model usefulness without simply increasing model size.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 55 — 26 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Built a preprocessing pipeline and checked that transformations were applied consistently.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Evaluated whether engineered features actually improved validation performance before keeping them.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 56 — 27 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied how domain-relevant features can improve machine-learning performance.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned why cross-validation gives a more reliable estimate of model performance than one split alone.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 57 — 28 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Created derived features from existing numerical columns.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Used validation results to compare alternative model configurations.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 58 — 29 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed categorical, numerical, and interaction features and their usefulness.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Studied hyperparameters and distinguished them from parameters learned during model training.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 59 — 30 September 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared a baseline model with a feature-engineered version.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how grid-style and randomized searches can be used to tune model hyperparameters.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 60 — 01 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Documented feature choices and their effect on model behaviour.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Selected a model configuration based on validation performance while avoiding unnecessary complexity.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 61 — 02 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied cross-validation and why a single train-test split may be insufficient.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how unsupervised learning discovers patterns when target labels are unavailable.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 62 — 03 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Explored hyperparameters and their role in machine-learning performance.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied clustering concepts to group similar observations based on feature similarity.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 63 — 04 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced parameter search on a small machine-learning model.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how cluster counts influence K-means results and how to interpret cluster assignments.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 64 — 05 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared multiple models using consistent evaluation metrics.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Used a clustering evaluation approach to assess whether generated groups were reasonably separated.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 65 — 06 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Selected a suitable model based on validation results and documented the reasoning.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Analyzed cluster characteristics and learned how unsupervised results can support exploratory decisions.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 66 — 07 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced unsupervised learning and common practical use cases.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how decision trees split data using feature-based rules to make predictions.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 67 — 08 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied clustering concepts and how similarity can be represented.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Trained a decision-tree model and examined how its depth affects learning and generalization.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 68 — 09 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Applied K-Means clustering to a small dataset.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood the idea of ensemble learning and why combining multiple models can improve robustness.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 69 — 10 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed cluster interpretation and the importance of feature scaling.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the basic working principle of random forests and their use in classification or regression.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 70 — 11 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Visualized clusters and documented observations from the unsupervised analysis.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Compared tree-based model behavior and identified situations where ensembles can reduce individual-model limitations.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 71 — 12 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied decision trees and how they split data using feature conditions.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the major stages of a natural language processing pipeline from raw text to usable features.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 72 — 13 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Trained and evaluated a decision-tree model.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Performed basic text cleaning such as normalization, tokenization, and removal of unnecessary content.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 73 — 14 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed tree depth and other controls used to reduce overfitting.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how stop words, stemming, and lemmatization affect text representation.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 74 — 15 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced ensemble methods such as random forests.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Converted text into numerical features using approaches such as bag-of-words and TF-IDF.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 75 — 16 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared a tree-based model with an earlier baseline and summarized the results.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Built a simple text-classification workflow and learned how language features influence predictions.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 76 — 17 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced NLP and common applications such as text classification and information extraction.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the main stages of a computer vision workflow, including image loading, preprocessing, and analysis.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 77 — 18 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced text cleaning, tokenization, normalization, and basic preprocessing.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Worked with image dimensions, channels, resizing, and normalization to prepare visual inputs.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 78 — 19 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied stop-word handling and basic text representation.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how image features can be represented numerically for machine learning tasks.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 79 — 20 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Explored bag-of-words and TF-IDF representations.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Applied basic image classification concepts and examined how preprocessing affects visual predictions.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 80 — 21 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Built a small text-classification workflow and reviewed its outputs.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Identified common computer vision challenges such as lighting variation, scale changes, and limited data.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 81 — 22 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced computer vision tasks and common image-data workflows.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the structure of artificial neural networks, including neurons, layers, weights, and biases.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 82 — 23 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed image representation, channels, dimensions, and preprocessing.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood activation functions and why nonlinear transformations allow neural networks to learn complex patterns.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 83 — 24 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced image loading, resizing, and basic transformation concepts.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how forward propagation produces predictions from network inputs.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 84 — 25 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Explored edge detection and simple image-feature extraction.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Studied the role of loss functions and backpropagation in updating neural-network parameters.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 85 — 26 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared a small computer-vision workflow and documented preprocessing steps.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Connected neural-network concepts into a basic deep-learning training workflow.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 86 — 27 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced neural networks, neurons, weights, biases, and activation functions.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how batch size, learning rate, and number of epochs influence deep-learning training.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 87 — 28 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied forward propagation and the role of loss functions.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Studied regularization techniques that help reduce overfitting in neural networks.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 88 — 29 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed backpropagation and gradient-based learning at a conceptual level.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how dropout and validation monitoring can improve generalization.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 89 — 30 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced TensorFlow/Keras workflow for building a simple neural network.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Compared training and validation performance to identify signs of underfitting or overfitting.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 90 — 31 October 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Trained a small neural-network example and reviewed its training behaviour.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Refined a neural-network workflow by reviewing errors and adjusting training settings.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 91 — 01 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied epochs, batches, optimizers, and learning-rate concepts in neural-network training.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned the core idea of generative AI and how it differs from traditional predictive machine learning.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 92 — 02 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed validation loss and accuracy curves to identify possible overfitting.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood prompt components such as role, context, task, constraints, and expected output format.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 93 — 03 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Explored dropout and regularization concepts for improving generalization.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Practiced writing clearer prompts and learned how specificity can improve generated results.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 94 — 04 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Compared training behaviour before and after basic model adjustments.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Compared zero-shot and few-shot prompting and observed how examples influence model responses.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 95 — 05 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Documented model configuration, observations, and possible next improvements.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned to evaluate generated AI outputs for relevance, consistency, factuality, and instruction-following.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 96 — 06 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Introduced Generative AI, foundation models, and common practical use cases.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Defined an AI project problem statement and converted it into measurable project objectives.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 97 — 07 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied prompt structure, context, constraints, examples, and expected-output formatting.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Planned an AI project workflow covering data preparation, modeling, evaluation, and user-facing output.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 98 — 08 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Practiced improving prompts through iteration and comparison of outputs.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Integrated data-processing and model components into a coherent prototype workflow.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 99 — 09 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Explored responsible AI considerations including accuracy, privacy, bias, and hallucination risks.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Tested the prototype with sample inputs and documented the expected versus observed behavior.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 100 — 10 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Created reusable prompt templates for summarization, analysis, and structured generation.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Improved the project by identifying an error source and applying a targeted correction.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 101 — 11 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Defined a small AI project problem statement, objective, inputs, and expected output.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned basic deployment considerations such as reproducibility, input validation, and environment requirements.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 102 — 12 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Collected and organized a suitable sample dataset and documented assumptions.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Prepared concise project documentation describing the problem, approach, data, model, and results.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 103 — 13 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Implemented preprocessing and a baseline model or AI workflow for the project.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Reviewed model limitations and identified cases where predictions should not be treated as certain.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 104 — 14 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Tested the project, reviewed errors or output quality, and made improvements.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Organized project files, code, outputs, and references into a cleaner submission-ready structure.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 105 — 15 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared the project workflow, documentation, results summary, and learning outcomes.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Completed a final review of the internship work and summarized the AI concepts, tools, and practical skills gained.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 106 — 16 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed the major AI, Python, data, machine-learning, deep-learning, and Generative AI concepts covered.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Reviewed the complete AI project workflow from initial requirement analysis through final testing and refinement.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 107 — 17 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed model or workflow limitations and identified possible future improvements.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how to present model results clearly using concise technical explanations and supporting evidence.
+Blockers / Risks: A few new concepts required additional practice and review before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 108 — 18 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Studied basic deployment considerations, reproducibility, configuration, and responsible usage.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Identified future improvement areas for the AI project, including better data, tuning, testing, and scalability.
+Blockers / Risks: No major blockers; small implementation or formatting issues were corrected during verification.
+Skills Used: HTML, CSS, ReactJS
+Day 109 — 19 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Prepared internship documentation, screenshots, learning evidence, and a concise project summary.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Consolidated internship documentation and verified that daily work, outcomes, skills, and references were consistently recorded.
+Blockers / Risks: No major blockers; spent time reviewing concepts and verifying the work before proceeding.
+Skills Used: HTML, CSS, ReactJS
+Day 110 — 20 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Completed a final self-review of technical skills, problem-solving ability, and next learning goals.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Reflected on the overall internship experience and identified the most valuable AI development skills gained for future projects.
+Blockers / Risks: Minor debugging and verification were required before the activity was completed.
+Skills Used: HTML, CSS, ReactJS
+Day 111 — 21 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Built the ReactJS page structure for the AI project and organized the main components into reusable sections.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how reusable React components help keep an application interface organized and easier to maintain.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 112 — 22 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Created a responsive navigation area using HTML structure, CSS styling, and ReactJS component composition.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood how semantic HTML and reusable navigation components improve consistency across application pages.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 113 — 23 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Designed the project dashboard layout with CSS spacing, alignment, typography, and card-based sections.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Practiced arranging dashboard content with consistent spacing and visual hierarchy using CSS.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 114 — 24 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Connected ReactJS components to display project information and status details in a structured interface.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how component props can pass information between ReactJS components and reduce repeated markup.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 115 — 25 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Added form fields and basic input handling to the project interface using ReactJS.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Understood how controlled form inputs capture user data and update interface state in ReactJS.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 116 — 26 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Improved the interface for different screen sizes by applying responsive CSS rules and flexible layouts.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how media queries and flexible sizing help maintain usability on desktop and mobile screens.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 117 — 27 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Refined buttons, cards, headings, and content sections to create a consistent visual style across pages.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Recognized the importance of reusable CSS classes and consistent design rules for a professional interface.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 118 — 28 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Tested page navigation and interactive elements, then corrected layout and component rendering issues.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Improved the ability to identify common UI issues by checking component behavior and browser rendering.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 119 — 29 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Reviewed the frontend structure, cleaned unused styles, and checked component naming and code organization.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Learned how code cleanup and consistent naming make a ReactJS project easier to understand and update.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
+Day 120 — 30 November 2026
+Internship: Artificial Intelligence Intern (Entry Level) — Edutainer
+Work Summary: Completed the final frontend review and documented the interface work carried out during the internship.
+Hours Worked: 6.5
+Reference Links: https://www.internship.edutainer.in/student/my-learning
+Learnings / Outcomes: Consolidated practical understanding of HTML structure, CSS presentation, and ReactJS component-based development.
+Blockers / Risks: No major blockers; reviewed the interface and corrected minor layout or component issues.
+Skills Used: HTML, CSS, ReactJS
