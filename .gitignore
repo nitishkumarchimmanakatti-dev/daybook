@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.credentials.json
+screenshots/
+*.png
+daybook_log.csv
+journal.md
+pending.md
+drafts/
+Archive/
+Daybook.zip

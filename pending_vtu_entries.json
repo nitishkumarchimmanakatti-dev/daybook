@@ -1,0 +1,852 @@
+[
+  {
+    "date_str": "2026-10-02",
+    "display_date": "02 October 2026",
+    "day_number": 2,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Handled click, change, submit, and keyboard interactions using React event handlers.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how React event handling differs from direct DOM event manipulation.",
+    "blockers": "Event handler parameters required careful checking.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-03",
+    "display_date": "03 October 2026",
+    "day_number": 3,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Applied reusable styling patterns to React components and kept visual consistency across screens.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how component structure and styling can be organized together without duplication.",
+    "blockers": "Some component styles overlapped and needed cleanup.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-04",
+    "display_date": "04 October 2026",
+    "day_number": 4,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Organized components, assets, utilities, and page-level code into a maintainable folder structure.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how project structure affects navigation and long-term maintainability.",
+    "blockers": "Several possible folder structures were compared before selecting one.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-05",
+    "display_date": "05 October 2026",
+    "day_number": 5,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Created a reusable card component driven by data props and used it across multiple sections.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how data-driven components reduce repeated markup.",
+    "blockers": "Optional props required clear defaults to prevent missing-content issues.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-06",
+    "display_date": "06 October 2026",
+    "day_number": 6,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Implemented page navigation and structured the application into multiple views.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how single-page applications organize navigation without full page reloads.",
+    "blockers": "Route structure required some cleanup after adding more views.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-07",
+    "display_date": "07 October 2026",
+    "day_number": 7,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Connected a React view to a test API and rendered fetched data using state and effects.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how frontend state represents asynchronous API results.",
+    "blockers": "Handling component loading and error states required careful state transitions.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-08",
+    "display_date": "08 October 2026",
+    "day_number": 8,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Practiced useEffect for data loading and side effects while reviewing dependency behavior.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned when effects should run and how dependencies influence them.",
+    "blockers": "Incorrect dependencies can cause repeated requests, so the effect logic was tested carefully.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-09",
+    "display_date": "09 October 2026",
+    "day_number": 9,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Created a simple custom hook for reusable data-fetching or UI behavior.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how custom hooks encapsulate reusable stateful logic.",
+    "blockers": "Separating generic logic from component-specific logic required refactoring.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-10",
+    "display_date": "10 October 2026",
+    "day_number": 10,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Built reusable validation logic for a React form and displayed field-level feedback.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how validation state can be modeled alongside form state.",
+    "blockers": "Synchronizing validation messages with field updates required careful state handling.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-11",
+    "display_date": "11 October 2026",
+    "day_number": 11,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed unnecessary re-renders, stable props, component boundaries, and basic memoization concepts.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned practical ways to avoid premature but unnecessary rendering work.",
+    "blockers": "It took time to distinguish actual performance concerns from theoretical ones.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-12",
+    "display_date": "12 October 2026",
+    "day_number": 12,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed keyboard navigation, labels, focus states, semantic elements, and accessible status messages in the React UI.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how accessibility considerations can be integrated during development rather than added later.",
+    "blockers": "A few interactive elements needed improved focus behavior.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-13",
+    "display_date": "13 October 2026",
+    "day_number": 13,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed component behavior that should be tested and identified important user flows and edge cases.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how to think about test cases from the user's perspective.",
+    "blockers": "Choosing the most valuable cases required prioritization.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-14",
+    "display_date": "14 October 2026",
+    "day_number": 14,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Combined reusable components, state, forms, API data, and responsive styling into a small working frontend.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how individual React concepts fit into a complete application.",
+    "blockers": "Integration exposed several small state and styling issues that required debugging.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-15",
+    "display_date": "15 October 2026",
+    "day_number": 15,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Set up a Node.js project and reviewed server-side JavaScript, npm, package management, and scripts.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how JavaScript can be used for backend development as well as frontend development.",
+    "blockers": "Package configuration required checking version and script settings.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-16",
+    "display_date": "16 October 2026",
+    "day_number": 16,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Created a basic Express server with routes, middleware, and JSON response handling.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned the basic structure of an Express web server.",
+    "blockers": "Route configuration and middleware order required testing.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-17",
+    "display_date": "17 October 2026",
+    "day_number": 17,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Designed simple GET, POST, PUT, and DELETE endpoints for the internship project data.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how REST endpoints map HTTP methods to application operations.",
+    "blockers": "Choosing clear endpoint names and request structures required refinement.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-18",
+    "display_date": "18 October 2026",
+    "day_number": 18,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Added validation for incoming API data and returned appropriate responses for invalid requests.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned why backend validation is necessary even when frontend validation exists.",
+    "blockers": "Handling multiple validation failures in a clean response required restructuring.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-19",
+    "display_date": "19 October 2026",
+    "day_number": 19,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Created and used middleware for logging, request processing, and common response behavior.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how middleware separates reusable server-side concerns.",
+    "blockers": "Middleware ordering affected which requests were processed and had to be verified.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-20",
+    "display_date": "20 October 2026",
+    "day_number": 20,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Added centralized error handling and consistent status responses for common server-side failures.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how predictable API errors make frontend integration easier.",
+    "blockers": "Some errors were initially returned with inconsistent status codes.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-21",
+    "display_date": "21 October 2026",
+    "day_number": 21,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Separated configuration values from application code and reviewed environment-variable usage for local development.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned why configuration and secrets should not be hard-coded into source files.",
+    "blockers": "Local environment setup required checking variable names and loading behavior.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-22",
+    "display_date": "22 October 2026",
+    "day_number": 22,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed document-oriented data modeling and connected a Node.js application to a MongoDB database.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned the basic differences between document databases and relational tables.",
+    "blockers": "Connection configuration and database naming required careful setup.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-23",
+    "display_date": "23 October 2026",
+    "day_number": 23,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Implemented basic create, read, update, and delete operations for project data.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how API routes connect business logic to persistent database operations.",
+    "blockers": "Handling missing records and invalid identifiers required additional checks.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-24",
+    "display_date": "24 October 2026",
+    "day_number": 24,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Defined a simple schema for application records and reviewed required fields, optional fields, and data consistency.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how thoughtful data models reduce downstream validation problems.",
+    "blockers": "Choosing appropriate field structure required considering future use.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-25",
+    "display_date": "25 October 2026",
+    "day_number": 25,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Connected the React frontend to the Express API and replaced test data with server-provided data.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how frontend state and backend API contracts work together.",
+    "blockers": "CORS and endpoint configuration caused initial connection issues.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-26",
+    "display_date": "26 October 2026",
+    "day_number": 26,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed authentication flow, password handling principles, sessions/tokens, and protected routes at a conceptual level.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned the difference between authentication and authorization and why credentials must be handled securely.",
+    "blockers": "Security concepts required careful review before implementation.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-27",
+    "display_date": "27 October 2026",
+    "day_number": 27,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Implemented a basic protected-route pattern for project operations and tested authorized versus unauthorized requests.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how server-side authorization checks protect backend resources.",
+    "blockers": "Keeping authentication checks consistent across routes required middleware reuse.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-28",
+    "display_date": "28 October 2026",
+    "day_number": 28,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Tested the complete frontend-to-backend flow and fixed request, response, state, and data-format mismatches.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned to debug across multiple application layers instead of treating frontend and backend separately.",
+    "blockers": "Several small mismatches had to be traced from network requests back to source code.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-29",
+    "display_date": "29 October 2026",
+    "day_number": 29,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Tested successful, invalid, missing-data, and not-found cases for the main API endpoints.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned the importance of testing both expected and failure paths.",
+    "blockers": "Some edge cases were found only after testing malformed requests.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-30",
+    "display_date": "30 October 2026",
+    "day_number": 30,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed input handling, exposed configuration, error messages, and basic secure development practices.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned to avoid exposing sensitive configuration or unnecessary internal error details.",
+    "blockers": "Some development logs were too verbose and were reduced.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-10-31",
+    "display_date": "31 October 2026",
+    "day_number": 31,
+    "month_number": 10,
+    "year": 2026,
+    "work_summary": "Reviewed frontend asset usage, API response size, repeated requests, and unnecessary rendering work.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned practical first-level performance checks before considering advanced optimization.",
+    "blockers": "Identifying meaningful bottlenecks required separating actual issues from minor concerns.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-01",
+    "display_date": "01 November 2026",
+    "day_number": 1,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Completed responsive layouts for the main application screens and tested common desktop and mobile widths.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how responsive behavior must be checked after full integration, not only on static pages.",
+    "blockers": "Integrated data content changed some mobile layouts and required adjustments.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-02",
+    "display_date": "02 November 2026",
+    "day_number": 2,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Improved empty states, loading feedback, form messages, button states, and navigation consistency.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned that small feedback elements make applications feel more reliable and understandable.",
+    "blockers": "Several screens needed consistent wording and spacing.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-03",
+    "display_date": "03 November 2026",
+    "day_number": 3,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Refactored duplicated frontend logic, simplified functions, improved names, and reorganized reusable utilities.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how refactoring can improve maintainability without changing expected behavior.",
+    "blockers": "Care was needed to avoid breaking integrated components.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-04",
+    "display_date": "04 November 2026",
+    "day_number": 4,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Updated project documentation with setup steps, feature descriptions, API notes, and development screenshots.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how documentation can serve as evidence of project progress and help others reproduce the work.",
+    "blockers": "Keeping documentation synchronized with the latest features required review.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-05",
+    "display_date": "05 November 2026",
+    "day_number": 5,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Performed a broader functional test covering navigation, forms, API calls, validation, responsive behavior, and error states.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned the value of testing the complete user journey rather than isolated features only.",
+    "blockers": "A few minor UI inconsistencies were discovered and corrected.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-06",
+    "display_date": "06 November 2026",
+    "day_number": 6,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed production build steps, environment configuration, API URLs, and deployment prerequisites.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned the difference between local development configuration and production deployment configuration.",
+    "blockers": "Environment-specific values required careful checking before deployment.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-07",
+    "display_date": "07 November 2026",
+    "day_number": 7,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Created the production frontend build and reviewed deployment configuration for the application.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how production builds package frontend assets and expose deployment-time configuration.",
+    "blockers": "A configuration mismatch initially affected API connectivity and was corrected.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-08",
+    "display_date": "08 November 2026",
+    "day_number": 8,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed the completed work, cleaned the repository, checked documentation, summarized learning outcomes, and prepared the project for handover.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Consolidated knowledge of frontend, backend, API integration, version control, testing, and deployment workflow.",
+    "blockers": "No major blocker; final work focused on verification and documentation.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-09",
+    "display_date": "09 November 2026",
+    "day_number": 9,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed outstanding development issues, categorized them by priority, and addressed the highest-impact UI and functionality items.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how prioritization helps keep project work focused on user impact.",
+    "blockers": "Some issues were related and had to be fixed together.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-10",
+    "display_date": "10 November 2026",
+    "day_number": 10,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed helper functions and consolidated repeated formatting, validation, and API-handling logic.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how small reusable utilities reduce duplication and simplify maintenance.",
+    "blockers": "A few utilities had overlapping responsibilities and needed clearer boundaries.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-11",
+    "display_date": "11 November 2026",
+    "day_number": 11,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed API responses and standardized success and error response structures used by the frontend.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how consistent API contracts reduce conditional complexity in frontend code.",
+    "blockers": "Existing responses used slightly different field names and needed alignment.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-12",
+    "display_date": "12 November 2026",
+    "day_number": 12,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Improved frontend handling for slow requests and temporary failures, including clear loading states and retry actions.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how resilient UI behavior improves the experience during unreliable network conditions.",
+    "blockers": "Testing delayed requests required repeated network simulations.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-13",
+    "display_date": "13 November 2026",
+    "day_number": 13,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Refined the complete form submission process from client validation through API request and success/error feedback.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how multiple application layers must coordinate during form submission.",
+    "blockers": "Validation, request state, and response handling needed to remain synchronized.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-14",
+    "display_date": "14 November 2026",
+    "day_number": 14,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed database operations for unnecessary queries and improved the organization of common data-access logic.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned that keeping database access organized makes backend maintenance easier.",
+    "blockers": "Separating data-access code from route logic required refactoring.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-15",
+    "display_date": "15 November 2026",
+    "day_number": 15,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Tested login/protected-resource scenarios and reviewed handling of invalid or expired authentication states.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how authentication failures should be handled clearly without exposing sensitive details.",
+    "blockers": "Several edge cases required explicit test scenarios.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-16",
+    "display_date": "16 November 2026",
+    "day_number": 16,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Performed a visual consistency pass across buttons, cards, forms, spacing, typography, and navigation.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned that design consistency improves perceived quality even when functionality is unchanged.",
+    "blockers": "A few screens had slightly different spacing rules and were standardized.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-17",
+    "display_date": "17 November 2026",
+    "day_number": 17,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Navigated major application flows using keyboard controls and checked focus order and interactive element labels.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned practical keyboard-accessibility checks for web applications.",
+    "blockers": "Some focus indicators needed stronger visual visibility.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-18",
+    "display_date": "18 November 2026",
+    "day_number": 18,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed Git history, removed unnecessary files, checked ignored files, and ensured the repository contained useful documentation.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned good repository hygiene practices before sharing or submitting a project.",
+    "blockers": "An unnecessary local configuration file was identified and excluded.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-19",
+    "display_date": "19 November 2026",
+    "day_number": 19,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Prepared a concise technical summary covering project objective, architecture, features, tools, challenges, and outcomes.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Learned how to communicate technical work clearly to a reviewer.",
+    "blockers": "Condensing the work into a short summary required prioritizing key outcomes.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  },
+  {
+    "date_str": "2026-11-20",
+    "display_date": "20 November 2026",
+    "day_number": 20,
+    "month_number": 11,
+    "year": 2026,
+    "work_summary": "Reviewed the internship work against the original learning objectives and documented the major skills gained and areas for further improvement.",
+    "hours": "6.5",
+    "links": "https://www.internship.edutainer.in/student/my-learning",
+    "learnings": "Consolidated practical understanding of responsive frontend development, React, APIs, backend basics, databases, Git, testing, and deployment.",
+    "blockers": "No major blocker; focused on organizing the final learning record.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+name: Daily Internship Diary Automation
+
+on:
+  schedule:
+    # Runs everyday at 05:30 UTC = 11:00 AM IST
+    - cron: '30 5 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
+
+jobs:
+  run-daily-diary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright pyyaml pytest
+          playwright install --with-deps chromium
+
+      - name: Run EduTrainer and VTU Automation
+        env:
+          EDUTAINER_EMAIL: ${{ secrets.EDUTAINER_EMAIL }}
+          EDUTAINER_PASSWORD: ${{ secrets.EDUTAINER_PASSWORD }}
+          VTU_EMAIL: ${{ secrets.VTU_EMAIL }}
+          VTU_PASSWORD: ${{ secrets.VTU_PASSWORD }}
+        run: |
+          python -c "
+          from portal_automation import login_edutainer
+          from vtu_automation import enter_vtu_diary
+          print('Running EduTrainer Login...')
+          login_edutainer(headless=True)
+          print('Running VTU Diary Submission...')
+          enter_vtu_diary(headless=True, dry_run=False)
+          "
