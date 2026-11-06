@@ -148,6 +148,13 @@ def login_edutainer(headless: bool = True) -> Tuple[bool, str]:
 
             # Ping back to the user via native macOS desktop notification and sound
             if success:
+                try:
+                    from telegram_notifier import send_telegram_photo
+                    caption = f"✅ EduTrainer Login & Attendance Recorded\n📅 Date: {datetime.now().strftime('%d %b %Y')}\n🔗 Status: Present"
+                    send_telegram_photo(screenshot_path, caption=caption)
+                except Exception as tg_err:
+                    print(f"Telegram notify error: {tg_err}")
+
                 from notify import send_macos_notification
                 send_macos_notification(
                     title="EduTrainer Auto-Login ✅",

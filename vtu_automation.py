@@ -169,6 +169,14 @@ def enter_vtu_diary(
 
                 browser.close()
                 print(f"\n⚠️ [DUPLICATE GUARD] Entry for today ({today_str}) has ALREADY been submitted. Skipping submission to prevent duplicates.")
+
+                try:
+                    from telegram_notifier import send_telegram_photo
+                    caption = f"ℹ️ VTU Diary Already Submitted\n📅 Date: {today_str}\nStatus: Verified on Portal ✅"
+                    send_telegram_photo(screenshot_path, caption=caption)
+                except Exception as tg_err:
+                    print(f"Telegram notify error: {tg_err}")
+
                 print(f"📷 Existing entry confirmation displayed from: {screenshot_path} (auto-deleting after viewing)")
                 auto_delete_after_viewing(screenshot_path, delay_seconds=15)
 
@@ -267,6 +275,19 @@ def enter_vtu_diary(
                 page.screenshot(path=str(screenshot_path), full_page=True)
 
             browser.close()
+
+            # Send Telegram photo confirmation directly to user's phone
+            try:
+                from telegram_notifier import send_telegram_photo
+                caption = (
+                    f"✅ VTU Internship Diary Submitted!\n"
+                    f"📅 Date: {today_str}\n"
+                    f"⏱️ Hours: {default_hours}\n"
+                    f"💡 Skills: HTML, CSS, React.js"
+                )
+                send_telegram_photo(screenshot_path, caption=caption)
+            except Exception as tg_err:
+                print(f"Telegram notify error: {tg_err}")
 
             # Ping back user
             from notify import send_macos_notification
