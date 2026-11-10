@@ -105,14 +105,14 @@ def send_telegram_photo(image_path: Path | str, caption: str = "") -> Tuple[bool
 
 
 def send_telegram_document(document_path: Path | str, caption: str = "") -> Tuple[bool, str]:
-    """Send a document (PDF, TXT, MD, etc.) directly to the user's Telegram."""
+    """Send any document/file (PDF, MD, etc.) directly to the user's Telegram."""
     token, chat_id = get_telegram_config()
     if not token or not chat_id:
         return False, "Telegram Bot Token or Chat ID not configured."
 
     doc_path = Path(document_path)
     if not doc_path.exists():
-        return False, f"Document not found at {doc_path}"
+        return False, f"File not found at {doc_path}"
 
     url = f"https://api.telegram.org/bot{token}/sendDocument"
     boundary = "----WebKitFormBoundaryDaybookDocNotifier7MA4YWxkTrZu0gW"
@@ -130,7 +130,7 @@ def send_telegram_document(document_path: Path | str, caption: str = "") -> Tupl
 
     # document file field
     filename = doc_path.name
-    content_type = "application/pdf" if filename.lower().endswith(".pdf") else "application/octet-stream"
+    content_type = "application/pdf" if filename.endswith(".pdf") else "application/octet-stream"
     body.extend(f"--{boundary}\r\n".encode("utf-8"))
     body.extend(f'Content-Disposition: form-data; name="document"; filename="{filename}"\r\n'.encode("utf-8"))
     body.extend(f"Content-Type: {content_type}\r\n\r\n".encode("utf-8"))
@@ -144,7 +144,7 @@ def send_telegram_document(document_path: Path | str, caption: str = "") -> Tupl
         url,
         data=bytes(body),
         headers={"Content-Type": f"multipart/form-data; boundary={boundary}"},
-        method="POST",
+        method="POST"
     )
 
     try:
