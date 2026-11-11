@@ -1,0 +1,1634 @@
+{
+  "py_w4": [
+    {
+      "question": "Python is best described as:",
+      "answer": "A high-level, interpreted programming language",
+      "options": [
+        "A low-level hardware language",
+        "A high-level, interpreted programming language",
+        "A database management system",
+        "A web browser"
+      ]
+    },
+    {
+      "question": "Python is widely used in:",
+      "answer": "Web development, AI, automation, and data science",
+      "options": [
+        "Web development, AI, automation, and data science",
+        "Hardware manufacturing only",
+        "Graphic design exclusively",
+        "Spreadsheet editing only"
+      ]
+    },
+    {
+      "question": "After installing Python, you can verify installation by typing which command in terminal?",
+      "answer": "python --version",
+      "options": [
+        "python --version",
+        "install python",
+        "run python.exe",
+        "check python"
+      ]
+    },
+    {
+      "question": "Which of the following is a valid first Python script?",
+      "answer": "print(\"Hello\")",
+      "options": [
+        "print \"Hello\"",
+        "echo(\"Hello\")",
+        "print(\"Hello\")",
+        "console.log(\"Hello\")"
+      ]
+    },
+    {
+      "question": "Python syntax is known for:",
+      "answer": "Strict indentation rules",
+      "options": [
+        "Curly braces for blocks",
+        "Strict indentation rules",
+        "Mandatory semicolons",
+        "XML-based structure"
+      ]
+    },
+    {
+      "question": "A variable in Python is used to:",
+      "answer": "Store values in memory",
+      "options": [
+        "Store values in memory",
+        "Define loops",
+        "Create functions",
+        "Install libraries"
+      ]
+    },
+    {
+      "question": "Which of the following is an integer?",
+      "answer": "10",
+      "options": [
+        "10.5",
+        "\"10\"",
+        "10",
+        "True"
+      ]
+    },
+    {
+      "question": "What will be the data type of: x = \"25\"",
+      "answer": "string",
+      "options": [
+        "int",
+        "float",
+        "string",
+        "boolean"
+      ]
+    },
+    {
+      "question": "Type casting int(\"5\") will result in:",
+      "answer": "5",
+      "options": [
+        "\"5\"",
+        "5",
+        "5.0",
+        "Error"
+      ]
+    },
+    {
+      "question": "Which is a valid variable name?",
+      "answer": "user_name",
+      "options": [
+        "2value",
+        "user-name",
+        "user_name",
+        "class"
+      ]
+    }
+  ],
+  "py_w5": [
+    {
+      "question": "What is the result of: 5 + 3 * 2",
+      "answer": "11",
+      "options": [
+        "16",
+        "11",
+        "13",
+        "10"
+      ]
+    },
+    {
+      "question": "The comparison operator for equality is:",
+      "answer": "==",
+      "options": [
+        "=",
+        "==",
+        "===",
+        "!="
+      ]
+    },
+    {
+      "question": "The logical operator and returns True only if:",
+      "answer": "Both conditions are True",
+      "options": [
+        "One condition is True",
+        "Both conditions are True",
+        "Both are False",
+        "Any is False"
+      ]
+    },
+    {
+      "question": "What will this print? age = 20 if age > 18: print(\"Adult\")",
+      "answer": "Adult",
+      "options": [
+        "Minor",
+        "Adult",
+        "Error",
+        "Nothing"
+      ]
+    },
+    {
+      "question": "Which keyword is used for multiple conditions?",
+      "answer": "elif",
+      "options": [
+        "else if",
+        "elif",
+        "elseif",
+        "otherwise"
+      ]
+    },
+    {
+      "question": "Incorrect indentation in Python will cause:",
+      "answer": "Syntax error",
+      "options": [
+        "Warning only",
+        "Syntax error",
+        "Automatic correction",
+        "Ignored code"
+      ]
+    },
+    {
+      "question": "A function in Python is defined using:",
+      "answer": "def",
+      "options": [
+        "function",
+        "def",
+        "define",
+        "func"
+      ]
+    },
+    {
+      "question": "What will this return? def add(a, b): return a + b print(add(2, 3))",
+      "answer": "5",
+      "options": [
+        "5",
+        "23",
+        "None",
+        "Error"
+      ]
+    },
+    {
+      "question": "Variables declared inside a function are:",
+      "answer": "Local to that function",
+      "options": [
+        "Global",
+        "Local to that function",
+        "Permanent",
+        "Constants"
+      ]
+    },
+    {
+      "question": "What will this print? for i in range(3): print(i)",
+      "answer": "0 1 2",
+      "options": [
+        "1 2 3",
+        "0 1 2",
+        "0 1 2 3",
+        "3 2 1"
+      ]
+    }
+  ],
+  "py_w6": [
+    {
+      "question": "A module in Python is:",
+      "answer": "A file containing reusable Python code",
+      "options": [
+        "A loop structure",
+        "A file containing reusable Python code",
+        "A variable type",
+        "A built-in function only"
+      ]
+    },
+    {
+      "question": "Which statement correctly imports the math module?",
+      "answer": "import math",
+      "options": [
+        "include math",
+        "import math",
+        "using math",
+        "require(math)"
+      ]
+    },
+    {
+      "question": "To use the square root function from math module:",
+      "answer": "math.sqrt(16)",
+      "options": [
+        "math.squareRoot(16)",
+        "sqrt(16)",
+        "math.sqrt(16)",
+        "root(16)"
+      ]
+    },
+    {
+      "question": "Custom modules allow developers to:",
+      "answer": "Organize and reuse code across files",
+      "options": [
+        "Replace built-in functions",
+        "Organize and reuse code across files",
+        "Avoid writing functions",
+        "Eliminate imports"
+      ]
+    },
+    {
+      "question": "The main difference between lists and dictionaries is that lists use:",
+      "answer": "Index positions",
+      "options": [
+        "Key-value pairs",
+        "Index positions",
+        "Only numbers",
+        "Fixed size"
+      ]
+    },
+    {
+      "question": "Accessing a dictionary value requires:",
+      "answer": "Key",
+      "options": [
+        "Index number",
+        "Key",
+        "Loop only",
+        "Pop function"
+      ]
+    },
+    {
+      "question": "Which correctly adds an element to a list?",
+      "answer": "list.append(5)",
+      "options": [
+        "list.add(5)",
+        "list.append(5)",
+        "list.insert() only",
+        "list.push(5)"
+      ]
+    },
+    {
+      "question": "A nested dictionary is:",
+      "answer": "Dictionary inside another dictionary",
+      "options": [
+        "Dictionary inside a list only",
+        "Dictionary inside another dictionary",
+        "List inside list only",
+        "Invalid structure"
+      ]
+    },
+    {
+      "question": "A lambda function is:",
+      "answer": "Anonymous single-expression function",
+      "options": [
+        "Multi-line function only",
+        "Anonymous single-expression function",
+        "Class method",
+        "Loop structure"
+      ]
+    },
+    {
+      "question": "Correct lambda syntax:",
+      "answer": "lambda x: x + 1",
+      "options": [
+        "lambda x: x + 1",
+        "lambda(x) {x+1}",
+        "def lambda(x):",
+        "lambda x -> x+1"
+      ]
+    }
+  ],
+  "py_w7": [
+    {
+      "question": "map() is mainly used to:",
+      "answer": "Apply a function to each item in an iterable",
+      "options": [
+        "Filter elements",
+        "Apply a function to each item in an iterable",
+        "Sort values",
+        "Remove duplicates"
+      ]
+    },
+    {
+      "question": "filter() returns:",
+      "answer": "Elements that satisfy a condition",
+      "options": [
+        "Modified values",
+        "Elements that satisfy a condition",
+        "All elements",
+        "Index numbers"
+      ]
+    },
+    {
+      "question": "An exception occurs when:",
+      "answer": "An error disrupts program flow",
+      "options": [
+        "Code runs successfully",
+        "An error disrupts program flow",
+        "Variables are declared",
+        "Functions return values"
+      ]
+    },
+    {
+      "question": "The correct syntax to handle exceptions is:",
+      "answer": "try/except",
+      "options": [
+        "try/catch",
+        "try/except",
+        "catch/finally",
+        "handle/error"
+      ]
+    },
+    {
+      "question": "The finally block is used to:",
+      "answer": "Execute code regardless of exception",
+      "options": [
+        "Catch errors",
+        "Execute code regardless of exception",
+        "Raise errors",
+        "Skip errors"
+      ]
+    },
+    {
+      "question": "Raising a custom exception is done using:",
+      "answer": "raise",
+      "options": [
+        "throw",
+        "raise",
+        "error",
+        "catch"
+      ]
+    },
+    {
+      "question": "The input() function returns data as:",
+      "answer": "String",
+      "options": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+      ]
+    },
+    {
+      "question": "To convert user input into integer:",
+      "answer": "int(input())",
+      "options": [
+        "int(input())",
+        "input(int)",
+        "convert(input())",
+        "float(input)"
+      ]
+    },
+    {
+      "question": "Input validation is important to:",
+      "answer": "Ensure user enters correct data format",
+      "options": [
+        "Increase program errors",
+        "Ensure user enters correct data format",
+        "Avoid conditionals",
+        "Replace exception handling"
+      ]
+    },
+    {
+      "question": "The recommended way to open and safely close a file is:",
+      "answer": "with open(\"file.txt\", \"r\") as f:",
+      "options": [
+        "open() only",
+        "with open(\"file.txt\", \"r\") as f:",
+        "file.read() directly",
+        "file.close() before open"
+      ]
+    }
+  ],
+  "py_w8": [
+    {
+      "question": "File handling is important in real-world systems because it allows programs to:",
+      "answer": "Persist data beyond program execution",
+      "options": [
+        "Only display output",
+        "Persist data beyond program execution",
+        "Replace databases",
+        "Avoid memory usage"
+      ]
+    },
+    {
+      "question": "Writing structured data to a file helps to:",
+      "answer": "Maintain organized and readable records",
+      "options": [
+        "Increase randomness",
+        "Maintain organized and readable records",
+        "Reduce file size only",
+        "Avoid formatting"
+      ]
+    },
+    {
+      "question": "Opening a file in append mode (\"a\") will:",
+      "answer": "Add new content at the end of the file",
+      "options": [
+        "Overwrite existing content",
+        "Add new content at the end of the file",
+        "Delete file automatically",
+        "Prevent writing"
+      ]
+    },
+    {
+      "question": "Opening a file in write mode (\"w\") will:",
+      "answer": "Overwrite existing file content",
+      "options": [
+        "Add content safely",
+        "Overwrite existing file content",
+        "Only read data",
+        "Throw an error always"
+      ]
+    },
+    {
+      "question": "The correct and safest way to handle file writing is:",
+      "answer": "with open(\"file.txt\", \"w\") as f:",
+      "options": [
+        "open() without closing",
+        "with open(\"file.txt\", \"w\") as f:",
+        "file.write() without open",
+        "close() before write"
+      ]
+    },
+    {
+      "question": "A relational database stores data in:",
+      "answer": "Tables with rows and columns",
+      "options": [
+        "Text paragraphs",
+        "Tables with rows and columns",
+        "JSON files only",
+        "Images"
+      ]
+    },
+    {
+      "question": "A primary key is used to:",
+      "answer": "Uniquely identify each record in a table",
+      "options": [
+        "Store duplicate values",
+        "Uniquely identify each record in a table",
+        "Connect to server",
+        "Sort data"
+      ]
+    },
+    {
+      "question": "In SQLite, creating a database in Python requires:",
+      "answer": "sqlite3.connect(\"example.db\")",
+      "options": [
+        "import database",
+        "sqlite3.connect(\"example.db\")",
+        "open(\"db\")",
+        "create database()"
+      ]
+    },
+    {
+      "question": "Relationships between tables are created using:",
+      "answer": "Foreign keys referencing primary keys",
+      "options": [
+        "Primary key only",
+        "Foreign keys referencing primary keys",
+        "Random fields",
+        "Index numbers"
+      ]
+    },
+    {
+      "question": "The SQL statement to insert data is:",
+      "answer": "INSERT INTO",
+      "options": [
+        "ADD INTO",
+        "INSERT INTO",
+        "PUT INTO",
+        "CREATE DATA"
+      ]
+    }
+  ],
+  "py_w9": [
+    {
+      "question": "Parameterized queries are important because they:",
+      "answer": "Prevent SQL injection attacks",
+      "options": [
+        "Increase speed only",
+        "Prevent SQL injection attacks",
+        "Prevent SQL injection attacks",
+        "Avoid committing changes"
+      ]
+    },
+    {
+      "question": "After inserting data into SQLite, changes are saved using:",
+      "answer": "commit()",
+      "options": [
+        "save()",
+        "commit()",
+        "push()",
+        "write()"
+      ]
+    },
+    {
+      "question": "Data validation before insertion helps to:",
+      "answer": "Ensure data accuracy and integrity",
+      "options": [
+        "Increase errors",
+        "Ensure data accuracy and integrity",
+        "Avoid primary keys",
+        "Replace constraints"
+      ]
+    },
+    {
+      "question": "The WHERE clause is used to:",
+      "answer": "Filter records based on conditions",
+      "options": [
+        "Delete table",
+        "Filter records based on conditions",
+        "Sort automatically",
+        "Insert values"
+      ]
+    },
+    {
+      "question": "The ORDER BY clause is used to:",
+      "answer": "Sort query results",
+      "options": [
+        "Filter rows",
+        "Sort query results",
+        "Update records",
+        "Delete records"
+      ]
+    },
+    {
+      "question": "The UPDATE statement is used to:",
+      "answer": "Modify existing records",
+      "options": [
+        "Insert new records",
+        "Modify existing records",
+        "Delete table",
+        "Create database"
+      ]
+    },
+    {
+      "question": "The DELETE statement removes:",
+      "answer": "Selected records from a table",
+      "options": [
+        "Database connection",
+        "Selected records from a table",
+        "Only columns",
+        "Entire file automatically"
+      ]
+    },
+    {
+      "question": "A list of dictionaries is useful when:",
+      "answer": "Representing structured records (e.g., users with attributes)",
+      "options": [
+        "Storing single value",
+        "Representing structured records (e.g., users with attributes)",
+        "Sorting numbers only",
+        "Replacing database"
+      ]
+    },
+    {
+      "question": "Multidimensional data refers to:",
+      "answer": "Data containing nested structures (lists within lists, etc.)",
+      "options": [
+        "One-dimensional list",
+        "Data containing nested structures (lists within lists, etc.)",
+        "Single variable",
+        "Boolean values only"
+      ]
+    },
+    {
+      "question": "NumPy is mainly used for:",
+      "answer": "Efficient numerical computing and array operations",
+      "options": [
+        "Web design",
+        "Efficient numerical computing and array operations",
+        "File handling",
+        "Email automation"
+      ]
+    }
+  ],
+  "py_w10": [
+    {
+      "question": "Matplotlib is primarily used for:",
+      "answer": "Creating data visualizations in Python",
+      "options": [
+        "Web hosting",
+        "Creating data visualizations in Python",
+        "Database management",
+        "API development"
+      ]
+    },
+    {
+      "question": "A line chart is best used to:",
+      "answer": "Display trends over time",
+      "options": [
+        "Show category comparison only",
+        "Display trends over time",
+        "Represent proportions",
+        "Store data"
+      ]
+    },
+    {
+      "question": "A scatter plot is useful for:",
+      "answer": "Comparing continuous variables and identifying correlations",
+      "options": [
+        "Showing parts of a whole",
+        "Comparing continuous variables and identifying correlations",
+        "Displaying hierarchical data",
+        "Writing formatted text"
+      ]
+    },
+    {
+      "question": "Which function adds a title to a Matplotlib chart?",
+      "answer": "plt.title()",
+      "options": [
+        "plt.name()",
+        "plt.title()",
+        "plt.header()",
+        "plt.caption()"
+      ]
+    },
+    {
+      "question": "To save a plot as an image file, you use:",
+      "answer": "plt.savefig()",
+      "options": [
+        "plt.store()",
+        "plt.save()",
+        "plt.savefig()",
+        "plt.export()"
+      ]
+    },
+    {
+      "question": "Pandas is mainly used for:",
+      "answer": "Data manipulation and analysis",
+      "options": [
+        "Web scraping only",
+        "Data manipulation and analysis",
+        "Image processing",
+        "Game development"
+      ]
+    },
+    {
+      "question": "A DataFrame in Pandas is:",
+      "answer": "Two-dimensional labeled data structure",
+      "options": [
+        "One-dimensional array",
+        "Two-dimensional labeled data structure",
+        "Single variable",
+        "JSON file"
+      ]
+    },
+    {
+      "question": "To read a CSV file into a DataFrame:",
+      "answer": "pd.read_csv()",
+      "options": [
+        "pd.load_csv()",
+        "pd.read_csv()",
+        "open_csv()",
+        "csv.read()"
+      ]
+    },
+    {
+      "question": "Filtering data in Pandas is commonly done using:",
+      "answer": "Conditional indexing",
+      "options": [
+        "print()",
+        "Conditional indexing",
+        "append()",
+        "insert()"
+      ]
+    },
+    {
+      "question": "Pandas integrates with Matplotlib to:",
+      "answer": "Visualize DataFrame data easily",
+      "options": [
+        "Store images",
+        "Visualize DataFrame data easily",
+        "Replace CSV files",
+        "Remove duplicates automatically"
+      ]
+    }
+  ],
+  "py_final": [
+    {
+      "question": "An API allows applications to:",
+      "answer": "Communicate and exchange data",
+      "options": [
+        "Replace databases",
+        "Communicate and exchange data",
+        "Design UI",
+        "Store local files"
+      ]
+    },
+    {
+      "question": "RESTful APIs typically use:",
+      "answer": "HTTP methods for communication",
+      "options": [
+        "File systems",
+        "HTTP methods for communication",
+        "Only local storage",
+        "CSS styles"
+      ]
+    },
+    {
+      "question": "The GET method is primarily used to:",
+      "answer": "Retrieve data",
+      "options": [
+        "Create new data",
+        "Retrieve data",
+        "Delete data",
+        "Update records"
+      ]
+    },
+    {
+      "question": "JSON format is:",
+      "answer": "Human-readable data interchange format",
+      "options": [
+        "Binary format",
+        "Human-readable data interchange format",
+        "Image format",
+        "Encrypted file"
+      ]
+    },
+    {
+      "question": "Flask and FastAPI are frameworks used to:",
+      "answer": "Build APIs in Python",
+      "options": [
+        "Create frontend websites only",
+        "Build APIs in Python",
+        "Design databases",
+        "Analyze CSV files"
+      ]
+    },
+    {
+      "question": "The POST method is used to:",
+      "answer": "Create new records",
+      "options": [
+        "Retrieve data",
+        "Create new records",
+        "Sort results",
+        "Filter results"
+      ]
+    },
+    {
+      "question": "A 404 HTTP status code indicates:",
+      "answer": "Resource not found",
+      "options": [
+        "Success",
+        "Server error",
+        "Resource not found",
+        "Unauthorized"
+      ]
+    },
+    {
+      "question": "CRUD stands for:",
+      "answer": "Create, Read, Update, Delete",
+      "options": [
+        "Create, Read, Update, Delete",
+        "Copy, Run, Update, Deploy",
+        "Connect, Render, Upload, Download",
+        "Code, React, Use, Debug"
+      ]
+    },
+    {
+      "question": "SQL databases are best suited for:",
+      "answer": "Structured data with defined schema",
+      "options": [
+        "Unstructured data only",
+        "Structured data with defined schema",
+        "Image storage only",
+        "Static websites"
+      ]
+    },
+    {
+      "question": "Firebase is primarily:",
+      "answer": "A cloud-based NoSQL backend platform",
+      "options": [
+        "A relational database only",
+        "A cloud-based NoSQL backend platform",
+        "A Python framework",
+        "A plotting library"
+      ]
+    }
+  ],
+  "react_1": [
+    {
+      "question": "JavaScript is primarily used to:",
+      "answer": "Add interactivity and logic to web pages",
+      "options": [
+        "Design hardware systems",
+        "Add interactivity and logic to web pages",
+        "Store database records permanently",
+        "Replace HTML and CSS entirely"
+      ]
+    },
+    {
+      "question": "React is best described as:",
+      "answer": "A JavaScript library for building user interfaces",
+      "options": [
+        "A backend database",
+        "A JavaScript library for building user interfaces",
+        "A programming language",
+        "A CSS framework"
+      ]
+    },
+    {
+      "question": "JavaScript powers React because React:",
+      "answer": "Uses JavaScript to define component logic and UI behavior",
+      "options": [
+        "Is written in Python",
+        "Uses JavaScript to define component logic and UI behavior",
+        "Does not require JavaScript",
+        "Only handles styling"
+      ]
+    },
+    {
+      "question": "The main difference between frontend and backend is that frontend:",
+      "answer": "Runs in the browser and interacts with users",
+      "options": [
+        "Handles database storage",
+        "Runs on the server",
+        "Runs in the browser and interacts with users",
+        "Controls server security"
+      ]
+    },
+    {
+      "question": "To run JavaScript outside the browser during development, you need:",
+      "answer": "Node.js",
+      "options": [
+        "Photoshop",
+        "Node.js",
+        "MySQL",
+        "Excel"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a primitive data type in JavaScript?",
+      "answer": "Array",
+      "options": [
+        "String",
+        "Number",
+        "Boolean",
+        "Array"
+      ]
+    },
+    {
+      "question": "What will be the type of: let x = null;",
+      "answer": "Object",
+      "options": [
+        "String",
+        "Object",
+        "Undefined",
+        "Boolean"
+      ]
+    },
+    {
+      "question": "Which keyword prevents reassignment of a variable?",
+      "answer": "const",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "define"
+      ]
+    },
+    {
+      "question": "Which is a correct variable naming convention?",
+      "answer": "userName",
+      "options": [
+        "1name",
+        "user-name",
+        "userName",
+        "let"
+      ]
+    },
+    {
+      "question": "Single-line comments in JavaScript are written using:",
+      "answer": "//",
+      "options": [
+        "",
+        "//",
+        "#",
+        "**"
+      ]
+    }
+  ],
+  "react_2": [
+    {
+      "question": "What will this code output? let age = 18; if (age >= 18) { console.log(\"Adult\"); }",
+      "answer": "Adult",
+      "options": [
+        "Minor",
+        "Adult",
+        "Undefined",
+        "Error"
+      ]
+    },
+    {
+      "question": "Which operator checks both value and type equality?",
+      "answer": "===",
+      "options": [
+        "==",
+        "=",
+        "===",
+        "!="
+      ]
+    },
+    {
+      "question": "Nested conditions are useful when:",
+      "answer": "Multiple related checks must be evaluated",
+      "options": [
+        "Only one condition is required",
+        "Multiple related checks must be evaluated",
+        "Variables are undefined",
+        "Loops are removed"
+      ]
+    },
+    {
+      "question": "Which is the correct way to create an array?",
+      "answer": "let arr = [1,2,3];",
+      "options": [
+        "let arr = (1,2,3);",
+        "let arr = [1,2,3];",
+        "let arr = {1,2,3};",
+        "let arr = <1,2,3>;"
+      ]
+    },
+    {
+      "question": "What is the index of the first element in an array?",
+      "answer": "0",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "Depends on size"
+      ]
+    },
+    {
+      "question": "What does push() do?",
+      "answer": "Adds element to the end of array",
+      "options": [
+        "Removes first element",
+        "Adds element to the end of array",
+        "Deletes entire array",
+        "Sorts array"
+      ]
+    },
+    {
+      "question": "What does pop() return?",
+      "answer": "Last element",
+      "options": [
+        "First element",
+        "Last element",
+        "Array length",
+        "Undefined always"
+      ]
+    },
+    {
+      "question": "Which loop is commonly used to iterate over arrays?",
+      "answer": "for",
+      "options": [
+        "if",
+        "switch",
+        "for",
+        "try"
+      ]
+    },
+    {
+      "question": "Which condition checks if the first value is greater than 5?",
+      "answer": "numbers[0] > 5",
+      "options": [
+        "numbers > 5",
+        "numbers[0] > 5",
+        "numbers(0) > 5",
+        "numbers.value > 5"
+      ]
+    },
+    {
+      "question": "In React, dynamic data is rendered inside JSX using:",
+      "answer": "{} curly braces",
+      "options": [
+        "() parentheses",
+        "{} curly braces",
+        "[] brackets",
+        "<> tags"
+      ]
+    }
+  ],
+  "react_3": [
+    {
+      "question": "What is a function in JavaScript?",
+      "answer": "A reusable block of code that performs a task",
+      "options": [
+        "A data type",
+        "A reusable block of code that performs a task",
+        "A loop structure",
+        "An object property"
+      ]
+    },
+    {
+      "question": "Why do we use functions?",
+      "answer": "To organize, reuse, and simplify logic",
+      "options": [
+        "To increase code repetition",
+        "To organize, reuse, and simplify logic",
+        "To replace variables",
+        "To avoid returning values"
+      ]
+    },
+    {
+      "question": "Which is the correct function declaration syntax?",
+      "answer": "function greet() {}",
+      "options": [
+        "A) function = greet() {}",
+        "function greet() {}",
+        "greet function() {}",
+        "def greet() {}"
+      ]
+    },
+    {
+      "question": "In the function below, what is 5?function square(num) { return num * num; } square(5);",
+      "answer": "Argument",
+      "options": [
+        "Parameter",
+        "Argument",
+        "Variable",
+        "Method"
+      ]
+    },
+    {
+      "question": "The purpose of the return statement is to:",
+      "answer": "Send a value back from the function",
+      "options": [
+        "Print output only",
+        "Send a value back from the function",
+        "Stop variable creation",
+        "Loop through arrays"
+      ]
+    },
+    {
+      "question": "Which is a function expression?",
+      "answer": "let add = function() {};",
+      "options": [
+        "A) function add() {}",
+        "let add = function() {};",
+        "add => function() {};",
+        "function = add() {};"
+      ]
+    },
+    {
+      "question": "The arrow function equivalent of: function add(a, b) { return a + b; } is:",
+      "answer": "(a,b) => a + b",
+      "options": [
+        "(a,b) => a + b",
+        "function => a + b",
+        "add(a,b) => {a + b}",
+        "=> (a,b) a + b"
+      ]
+    },
+    {
+      "question": "Default parameters are useful when:",
+      "answer": "A fallback value is needed if no argument is provided",
+      "options": [
+        "Arguments are always passed",
+        "A fallback value is needed if no argument is provided",
+        "Functions return nothing",
+        "Using objects only"
+      ]
+    },
+    {
+      "question": "A callback function is:",
+      "answer": "A function passed as an argument to another function",
+      "options": [
+        "A function inside a loop only",
+        "A function passed as an argument to another function",
+        "A function without return",
+        "A recursive function"
+      ]
+    },
+    {
+      "question": "An object in JavaScript is:",
+      "answer": "A collection of key-value pairs",
+      "options": [
+        "A primitive data type",
+        "A collection of key-value pairs",
+        "A loop structure",
+        "An array method"
+      ]
+    }
+  ],
+  "react_4": [
+    {
+      "question": "How do you access the name property? let user = { name: \"John\", age: 22 };",
+      "answer": "user.name",
+      "options": [
+        "user(name)",
+        "user->name",
+        "user.name",
+        "user[name] only"
+      ]
+    },
+    {
+      "question": "How do you add a new property city to the object user?",
+      "answer": "user.city = \"Delhi\";",
+      "options": [
+        "user(city) = \"Delhi\";",
+        "user.city = \"Delhi\";",
+        "user -> city = \"Delhi\";",
+        "add user.city = \"Delhi\";"
+      ]
+    },
+    {
+      "question": "A method inside an object is:",
+      "answer": "A function stored as a property",
+      "options": [
+        "A loop",
+        "A function stored as a property",
+        "A variable",
+        "An array"
+      ]
+    },
+    {
+      "question": "The this keyword inside an object method refers to:",
+      "answer": "The current object calling the method",
+      "options": [
+        "Global object always",
+        "The current object calling the method",
+        "The window only",
+        "Undefined"
+      ]
+    },
+    {
+      "question": "Which statement about let vs const is correct?",
+      "answer": "const prevents reassignment of the variable",
+      "options": [
+        "const allows reassignment",
+        "let cannot be updated",
+        "const prevents reassignment of the variable",
+        "Both are identical"
+      ]
+    },
+    {
+      "question": "Template literals use which symbol?",
+      "answer": "(backticks)",
+      "options": [
+        "\" \"",
+        "' '",
+        "(backticks)",
+        "< >"
+      ]
+    },
+    {
+      "question": "Destructuring allows you to:",
+      "answer": "Extract values from arrays or objects into variables",
+      "options": [
+        "Delete objects",
+        "Extract values from arrays or objects into variables",
+        "Merge arrays only",
+        "Loop automatically"
+      ]
+    },
+    {
+      "question": "forEach() is mainly used to:",
+      "answer": "Execute a function for each element",
+      "options": [
+        "Create new array",
+        "Execute a function for each element",
+        "Filter data",
+        "Sort automatically"
+      ]
+    },
+    {
+      "question": "Which method returns a new array with modified values?",
+      "answer": "forEach()",
+      "options": [
+        "forEach()",
+        "forEach()",
+        "filter()",
+        "push()"
+      ]
+    },
+    {
+      "question": "What does filter() do?",
+      "answer": "Returns elements that satisfy a condition",
+      "options": [
+        "Modifies original array directly",
+        "Returns elements that satisfy a condition",
+        "Deletes all elements",
+        "Adds elements"
+      ]
+    }
+  ],
+  "react_5": [
+    {
+      "question": "React is best defined as:",
+      "answer": "A JavaScript library for building user interfaces",
+      "options": [
+        "A backend framework",
+        "A JavaScript library for building user interfaces",
+        "A database system",
+        "A CSS preprocessor"
+      ]
+    },
+    {
+      "question": "One major problem React solves is:",
+      "answer": "Manual DOM manipulation complexity",
+      "options": [
+        "Server hosting",
+        "Manual DOM manipulation complexity",
+        "Database management",
+        "CSS styling"
+      ]
+    },
+    {
+      "question": "A Single Page Application (SPA) loads:",
+      "answer": "One HTML page and dynamically updates content",
+      "options": [
+        "Multiple HTML pages for each route",
+        "One HTML page and dynamically updates content",
+        "Only backend APIs",
+        "Static content only"
+      ]
+    },
+    {
+      "question": "Tools like Create React App or Vite help developers to:",
+      "answer": "Quickly set up a React development environment",
+      "options": [
+        "Write backend logic",
+        "Quickly set up a React development environment",
+        "Replace JavaScript",
+        "Deploy databases"
+      ]
+    },
+    {
+      "question": "In a typical React project, reusable UI pieces are stored inside:",
+      "answer": "components folder",
+      "options": [
+        "public folder",
+        "node_modules",
+        "components folder",
+        "package.json"
+      ]
+    },
+    {
+      "question": "JSX stands for:",
+      "answer": "JavaScript XML",
+      "options": [
+        "Java Syntax Extension",
+        "JavaScript XML",
+        "JSON XML",
+        "JavaScript Execution"
+      ]
+    },
+    {
+      "question": "Why is JSX used in React?",
+      "answer": "To write HTML-like syntax inside JavaScript",
+      "options": [
+        "To replace JavaScript",
+        "To write HTML-like syntax inside JavaScript",
+        "To connect to backend",
+        "To style components only"
+      ]
+    },
+    {
+      "question": "Which is correct in JSX?",
+      "answer": "className=\"box\"",
+      "options": [
+        "class=\"box\"",
+        "className=\"box\"",
+        "class-box=\"box\"",
+        "class:box"
+      ]
+    },
+    {
+      "question": "How do you embed JavaScript inside JSX?",
+      "answer": "{}",
+      "options": [
+        "()",
+        "[]",
+        "{}",
+        "<>"
+      ]
+    },
+    {
+      "question": "React elements are rendered to the DOM using:",
+      "answer": "ReactDOM.createRoot().render()",
+      "options": [
+        "console.log()",
+        "ReactDOM.createRoot().render()",
+        "alert()",
+        "export default"
+      ]
+    }
+  ],
+  "react_6": [
+    {
+      "question": "Components in React are:",
+      "answer": "Reusable UI building blocks",
+      "options": [
+        "CSS files",
+        "Reusable UI building blocks",
+        "Database functions",
+        "API endpoints"
+      ]
+    },
+    {
+      "question": "Functional components are preferred today mainly because:",
+      "answer": "They support Hooks",
+      "options": [
+        "They support Hooks",
+        "They are longer",
+        "They require classes",
+        "They avoid props"
+      ]
+    },
+    {
+      "question": "Props are used to:",
+      "answer": "Pass data from parent to child components",
+      "options": [
+        "Store internal state",
+        "Pass data from parent to child components",
+        "Modify CSS",
+        "Handle routing"
+      ]
+    },
+    {
+      "question": "State in React represents:",
+      "answer": "Dynamic data that affects UI rendering",
+      "options": [
+        "Static data",
+        "Dynamic data that affects UI rendering",
+        "CSS rules",
+        "API endpoints"
+      ]
+    },
+    {
+      "question": "The useState Hook returns:",
+      "answer": "An array with state value and update function",
+      "options": [
+        "One value",
+        "An array with state value and update function",
+        "An object",
+        "Boolean only"
+      ]
+    },
+    {
+      "question": "Controlled inputs in React mean:",
+      "answer": "Input values controlled by React state",
+      "options": [
+        "Input values managed by DOM only",
+        "Input values controlled by React state",
+        "Inputs without validation",
+        "Static input fields"
+      ]
+    },
+    {
+      "question": "Lifting state up means:",
+      "answer": "Moving state to a common parent to share between components",
+      "options": [
+        "Deleting state",
+        "Moving state to a common parent to share between components",
+        "Using global variables",
+        "Avoiding props"
+      ]
+    },
+    {
+      "question": "Conditional rendering in React is commonly done using:",
+      "answer": "if statements or ternary operators inside JSX",
+      "options": [
+        "CSS only",
+        "if statements or ternary operators inside JSX",
+        "SQL queries",
+        "Loop statements only"
+      ]
+    },
+    {
+      "question": "In class components, componentDidMount() is typically used to:",
+      "answer": "Run code after component is added to DOM",
+      "options": [
+        "Remove components",
+        "Run code after component is added to DOM",
+        "Prevent rendering",
+        "Update props"
+      ]
+    },
+    {
+      "question": "The useEffect Hook is mainly used for:",
+      "answer": "Handling side effects like API calls or subscriptions",
+      "options": [
+        "Styling components",
+        "Handling side effects like API calls or subscriptions",
+        "Creating components",
+        "Managing routing"
+      ]
+    }
+  ],
+  "react_7": [
+    {
+      "question": "Events in React are used to:",
+      "answer": "Connect to database",
+      "options": [
+        "Connect to database",
+        "Connect to database",
+        "Create components",
+        "Style elements"
+      ]
+    },
+    {
+      "question": "React\u2019s Synthetic Events are:",
+      "answer": "Cross-browser wrapper around native events",
+      "options": [
+        "Real DOM events only",
+        "Cross-browser wrapper around native events",
+        "Server-side events",
+        "CSS triggers"
+      ]
+    },
+    {
+      "question": "Which event is commonly used for form submission?",
+      "answer": "onSubmit",
+      "options": [
+        "onClick",
+        "onSubmit",
+        "onHover",
+        "onLoad"
+      ]
+    },
+    {
+      "question": "In functional components, event binding is handled by:",
+      "answer": "Arrow functions or direct function reference",
+      "options": [
+        "bind() method in constructor",
+        "Arrow functions or direct function reference",
+        "Class methods only",
+        "Global functions"
+      ]
+    },
+    {
+      "question": "How do you pass a parameter to an event handler?",
+      "answer": "onClick={() => handleClick(id)}",
+      "options": [
+        "onClick={handleClick()}",
+        "onClick={handleClick}",
+        "onClick={() => handleClick(id)}",
+        "onClick=handleClick(id)"
+      ]
+    },
+    {
+      "question": "Props drilling occurs when:",
+      "answer": "Props are passed through multiple intermediate components",
+      "options": [
+        "Data is stored in global state",
+        "Props are passed through multiple intermediate components",
+        "State is deleted",
+        "API calls are made"
+      ]
+    },
+    {
+      "question": "In React, data flow between parent and child is typically:",
+      "answer": "Parent \u2192 Child via props",
+      "options": [
+        "Child \u2192 Parent",
+        "Two-way automatically",
+        "Parent \u2192 Child via props",
+        "Random"
+      ]
+    },
+    {
+      "question": "Child-to-parent communication is achieved using:",
+      "answer": "Callback functions passed as props",
+      "options": [
+        "Direct state access",
+        "Callback functions passed as props",
+        "Global variables",
+        "Synthetic events"
+      ]
+    },
+    {
+      "question": "Lifting state up is necessary when:",
+      "answer": "Multiple sibling components need shared data",
+      "options": [
+        "Only one component uses the state",
+        "Multiple sibling components need shared data",
+        "No props are used",
+        "Using CSS"
+      ]
+    },
+    {
+      "question": "A controlled component means:",
+      "answer": "Input value controlled by React state",
+      "options": [
+        "Input managed by browser only",
+        "Input value controlled by React state",
+        "Input without validation",
+        "Static form field"
+      ]
+    }
+  ],
+  "react_final": [
+    {
+      "question": "Handling multiple inputs efficiently is commonly done using:",
+      "answer": "A single state object with dynamic keys",
+      "options": [
+        "Separate state for each input always",
+        "A single state object with dynamic keys",
+        "No state",
+        "Direct DOM manipulation"
+      ]
+    },
+    {
+      "question": "Which attribute is used to link input field to state?",
+      "answer": "value",
+      "options": [
+        "value",
+        "className",
+        "id",
+        "name only"
+      ]
+    },
+    {
+      "question": "To prevent page reload during form submission, you use:",
+      "answer": "preventDefault()",
+      "options": [
+        "stopPropagation()",
+        "preventDefault()",
+        "stopReload()",
+        "resetForm()"
+      ]
+    },
+    {
+      "question": "Basic validation logic is typically implemented:",
+      "answer": "Inside event handler before submission",
+      "options": [
+        "Inside render only",
+        "Inside event handler before submission",
+        "After page reload",
+        "Inside CSS"
+      ]
+    },
+    {
+      "question": "Conditional error messages in React are displayed using:",
+      "answer": "Conditional rendering",
+      "options": [
+        "Loops only",
+        "Conditional rendering",
+        "Inline HTML",
+        "Direct DOM update"
+      ]
+    },
+    {
+      "question": "Dynamic form fields are useful when:",
+      "answer": "Inputs depend on user actions",
+      "options": [
+        "Number of inputs is fixed",
+        "Inputs depend on user actions",
+        "Forms are static",
+        "No state is used"
+      ]
+    },
+    {
+      "question": "Breaking UI into smaller reusable components improves:",
+      "answer": "Maintainability and readability",
+      "options": [
+        "Code duplication",
+        "Maintainability and readability",
+        "Complexity",
+        "File size only"
+      ]
+    },
+    {
+      "question": "Prop destructuring helps to:",
+      "answer": "Access props directly without props.keyword",
+      "options": [
+        "Delete props",
+        "Access props directly without props.keyword",
+        "Avoid passing props",
+        "Prevent rendering"
+      ]
+    },
+    {
+      "question": "When adding tasks to a state array, the correct approach is:",
+      "answer": "Use setState with a new updated array",
+      "options": [
+        "Directly modify state array",
+        "Use setState with a new updated array",
+        "Delete previous tasks",
+        "Use var instead of state"
+      ]
+    },
+    {
+      "question": "Marking a task as completed is typically handled by:",
+      "answer": "Updating a boolean property (e.g., completed: true)",
+      "options": [
+        "Removing it permanently",
+        "Updating a boolean property (e.g., completed: true)",
+        "Reloading the page",
+        "Creating new component"
+      ]
+    }
+  ]
+}
