@@ -1,0 +1,4098 @@
+{
+  "py_w4": {
+    "score": "10",
+    "total": "10",
+    "questions": [
+      {
+        "question": "Python is best described as:",
+        "options": [
+          {
+            "text": "A low-level hardware language",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A high-level, interpreted programming language",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A database management system",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A web browser",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Python is widely used in:",
+        "options": [
+          {
+            "text": "Web development, AI, automation, and data science",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Hardware manufacturing only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Graphic design exclusively",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Spreadsheet editing only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "After installing Python, you can verify installation by typing which command in terminal?",
+        "options": [
+          {
+            "text": "python --version",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "install python",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "run python.exe",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "check python",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is a valid first Python script?",
+        "options": [
+          {
+            "text": "print \"Hello\"",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "echo(\"Hello\")",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "print(\"Hello\")",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "console.log(\"Hello\")",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Python syntax is known for:",
+        "options": [
+          {
+            "text": "Curly braces for blocks",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Strict indentation rules",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Mandatory semicolons",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "XML-based structure",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A variable in Python is used to:",
+        "options": [
+          {
+            "text": "Store values in memory",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Define loops",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Create functions",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Install libraries",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is an integer?",
+        "options": [
+          {
+            "text": "10.5",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "\"10\"",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "10",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "True",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What will be the data type of: x = \"25\"",
+        "options": [
+          {
+            "text": "int",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "float",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "string",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "boolean",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Type casting int(\"5\") will result in:",
+        "options": [
+          {
+            "text": "\"5\"",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "5",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "5.0",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Error",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which is a valid variable name?",
+        "options": [
+          {
+            "text": "2value",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "user-name",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "user_name",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "class",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_w5": {
+    "score": "1",
+    "total": "10",
+    "questions": [
+      {
+        "question": "What is the result of: 5 + 3 * 2",
+        "options": [
+          {
+            "text": "16",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "11",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "13",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "10",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The comparison operator for equality is:",
+        "options": [
+          {
+            "text": "=",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "==",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "===",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "!=",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The logical operator and returns True only if:",
+        "options": [
+          {
+            "text": "One condition is True",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Both conditions are True",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Both are False",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Any is False",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What will this print? age = 20 if age > 18: print(\"Adult\")",
+        "options": [
+          {
+            "text": "Minor",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Adult",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Error",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Nothing",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which keyword is used for multiple conditions?",
+        "options": [
+          {
+            "text": "else if",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "elif",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "elseif",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "otherwise",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Incorrect indentation in Python will cause:",
+        "options": [
+          {
+            "text": "Warning only",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Syntax error",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Automatic correction",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Ignored code",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A function in Python is defined using:",
+        "options": [
+          {
+            "text": "function",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "def",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "define",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "func",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What will this return? def add(a, b): return a + b print(add(2, 3))",
+        "options": [
+          {
+            "text": "5",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "23",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "None",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Error",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Variables declared inside a function are:",
+        "options": [
+          {
+            "text": "Global",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Local to that function",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Permanent",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Constants",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What will this print? for i in range(3): print(i)",
+        "options": [
+          {
+            "text": "1 2 3",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "0 1 2",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "0 1 2 3",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "3 2 1",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_w6": {
+    "score": "8",
+    "total": "10",
+    "questions": [
+      {
+        "question": "A module in Python is:",
+        "options": [
+          {
+            "text": "A loop structure",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A file containing reusable Python code",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A variable type",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A built-in function only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which statement correctly imports the math module?",
+        "options": [
+          {
+            "text": "include math",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "import math",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "using math",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "require(math)",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "To use the square root function from math module:",
+        "options": [
+          {
+            "text": "math.squareRoot(16)",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "sqrt(16)",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "math.sqrt(16)",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "root(16)",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Custom modules allow developers to:",
+        "options": [
+          {
+            "text": "Replace built-in functions",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Organize and reuse code across files",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid writing functions",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Eliminate imports",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The main difference between lists and dictionaries is that lists use:",
+        "options": [
+          {
+            "text": "Key-value pairs",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Index positions",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Only numbers",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Fixed size",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Accessing a dictionary value requires:",
+        "options": [
+          {
+            "text": "Index number",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Key",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Loop only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Pop function",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which correctly adds an element to a list?",
+        "options": [
+          {
+            "text": "list.add(5)",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "list.append(5)",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "list.insert() only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "list.push(5)",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A nested dictionary is:",
+        "options": [
+          {
+            "text": "Dictionary inside a list only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Dictionary inside another dictionary",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "List inside list only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Invalid structure",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A lambda function is:",
+        "options": [
+          {
+            "text": "Multi-line function only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Anonymous single-expression function",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Class method",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Loop structure",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Correct lambda syntax:",
+        "options": [
+          {
+            "text": "lambda x: x + 1",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "lambda(x) {x+1}",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "def lambda(x):",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "lambda x -> x+1",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_w7": {
+    "score": "8",
+    "total": "10",
+    "questions": [
+      {
+        "question": "map() is mainly used to:",
+        "options": [
+          {
+            "text": "Filter elements",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Apply a function to each item in an iterable",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Sort values",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Remove duplicates",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "filter() returns:",
+        "options": [
+          {
+            "text": "Modified values",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Elements that satisfy a condition",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "All elements",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Index numbers",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "An exception occurs when:",
+        "options": [
+          {
+            "text": "Code runs successfully",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "An error disrupts program flow",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Variables are declared",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Functions return values",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The correct syntax to handle exceptions is:",
+        "options": [
+          {
+            "text": "try/catch",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "try/except",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "catch/finally",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "handle/error",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The finally block is used to:",
+        "options": [
+          {
+            "text": "Catch errors",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Execute code regardless of exception",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Raise errors",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Skip errors",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Raising a custom exception is done using:",
+        "options": [
+          {
+            "text": "throw",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "raise",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "error",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "catch",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The input() function returns data as:",
+        "options": [
+          {
+            "text": "Integer",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Float",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "String",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Boolean",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "To convert user input into integer:",
+        "options": [
+          {
+            "text": "int(input())",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "input(int)",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "convert(input())",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "float(input)",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Input validation is important to:",
+        "options": [
+          {
+            "text": "Increase program errors",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Ensure user enters correct data format",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid conditionals",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Replace exception handling",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The recommended way to open and safely close a file is:",
+        "options": [
+          {
+            "text": "open() only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "with open(\"file.txt\", \"r\") as f:",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "file.read() directly",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "file.close() before open",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_w8": {
+    "score": "10",
+    "total": "10",
+    "questions": [
+      {
+        "question": "File handling is important in real-world systems because it allows programs to:",
+        "options": [
+          {
+            "text": "Only display output",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Persist data beyond program execution",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Replace databases",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid memory usage",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Writing structured data to a file helps to:",
+        "options": [
+          {
+            "text": "Increase randomness",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Maintain organized and readable records",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Reduce file size only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid formatting",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Opening a file in append mode (\"a\") will:",
+        "options": [
+          {
+            "text": "Overwrite existing content",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Add new content at the end of the file",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Delete file automatically",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Prevent writing",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Opening a file in write mode (\"w\") will:",
+        "options": [
+          {
+            "text": "Add content safely",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Overwrite existing file content",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Only read data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Throw an error always",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The correct and safest way to handle file writing is:",
+        "options": [
+          {
+            "text": "open() without closing",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "with open(\"file.txt\", \"w\") as f:",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "file.write() without open",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "close() before write",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A relational database stores data in:",
+        "options": [
+          {
+            "text": "Text paragraphs",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Tables with rows and columns",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "JSON files only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Images",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A primary key is used to:",
+        "options": [
+          {
+            "text": "Store duplicate values",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Uniquely identify each record in a table",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Connect to server",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Sort data",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In SQLite, creating a database in Python requires:",
+        "options": [
+          {
+            "text": "import database",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "sqlite3.connect(\"example.db\")",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "open(\"db\")",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "create database()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Relationships between tables are created using:",
+        "options": [
+          {
+            "text": "Primary key only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Foreign keys referencing primary keys",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Random fields",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Index numbers",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The SQL statement to insert data is:",
+        "options": [
+          {
+            "text": "ADD INTO",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "INSERT INTO",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "PUT INTO",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "CREATE DATA",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_w9": {
+    "score": "10",
+    "total": "10",
+    "questions": [
+      {
+        "question": "Parameterized queries are important because they:",
+        "options": [
+          {
+            "text": "Increase speed only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Prevent SQL injection attacks",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Prevent SQL injection attacks",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid committing changes",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "After inserting data into SQLite, changes are saved using:",
+        "options": [
+          {
+            "text": "save()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "commit()",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "push()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "write()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Data validation before insertion helps to:",
+        "options": [
+          {
+            "text": "Increase errors",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Ensure data accuracy and integrity",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid primary keys",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Replace constraints",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The WHERE clause is used to:",
+        "options": [
+          {
+            "text": "Delete table",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Filter records based on conditions",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Sort automatically",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Insert values",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The ORDER BY clause is used to:",
+        "options": [
+          {
+            "text": "Filter rows",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Sort query results",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Update records",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Delete records",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The UPDATE statement is used to:",
+        "options": [
+          {
+            "text": "Insert new records",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Modify existing records",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Delete table",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Create database",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The DELETE statement removes:",
+        "options": [
+          {
+            "text": "Database connection",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Selected records from a table",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Only columns",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Entire file automatically",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A list of dictionaries is useful when:",
+        "options": [
+          {
+            "text": "Storing single value",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Representing structured records (e.g., users with attributes)",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Sorting numbers only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Replacing database",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Multidimensional data refers to:",
+        "options": [
+          {
+            "text": "One-dimensional list",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Data containing nested structures (lists within lists, etc.)",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Single variable",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Boolean values only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "NumPy is mainly used for:",
+        "options": [
+          {
+            "text": "Web design",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Efficient numerical computing and array operations",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "File handling",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Email automation",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_w10": {
+    "score": "9",
+    "total": "10",
+    "questions": [
+      {
+        "question": "Matplotlib is primarily used for:",
+        "options": [
+          {
+            "text": "Web hosting",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Creating data visualizations in Python",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Database management",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "API development",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A line chart is best used to:",
+        "options": [
+          {
+            "text": "Show category comparison only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Display trends over time",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Represent proportions",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Store data",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A scatter plot is useful for:",
+        "options": [
+          {
+            "text": "Showing parts of a whole",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Comparing continuous variables and identifying correlations",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Displaying hierarchical data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Writing formatted text",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which function adds a title to a Matplotlib chart?",
+        "options": [
+          {
+            "text": "plt.name()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "plt.title()",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "plt.header()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "plt.caption()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "To save a plot as an image file, you use:",
+        "options": [
+          {
+            "text": "plt.store()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "plt.save()",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "plt.savefig()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "plt.export()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Pandas is mainly used for:",
+        "options": [
+          {
+            "text": "Web scraping only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Data manipulation and analysis",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Image processing",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Game development",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A DataFrame in Pandas is:",
+        "options": [
+          {
+            "text": "One-dimensional array",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Two-dimensional labeled data structure",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Single variable",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "JSON file",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "To read a CSV file into a DataFrame:",
+        "options": [
+          {
+            "text": "pd.load_csv()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "pd.read_csv()",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "open_csv()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "csv.read()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Filtering data in Pandas is commonly done using:",
+        "options": [
+          {
+            "text": "print()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Conditional indexing",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "append()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "insert()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Pandas integrates with Matplotlib to:",
+        "options": [
+          {
+            "text": "Store images",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Visualize DataFrame data easily",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Replace CSV files",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Remove duplicates automatically",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "py_final": {
+    "score": "7",
+    "total": "10",
+    "questions": [
+      {
+        "question": "An API allows applications to:",
+        "options": [
+          {
+            "text": "Replace databases",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Communicate and exchange data",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Design UI",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Store local files",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "RESTful APIs typically use:",
+        "options": [
+          {
+            "text": "File systems",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "HTTP methods for communication",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Only local storage",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "CSS styles",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The GET method is primarily used to:",
+        "options": [
+          {
+            "text": "Create new data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Retrieve data",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Delete data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Update records",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "JSON format is:",
+        "options": [
+          {
+            "text": "Binary format",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Human-readable data interchange format",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Image format",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Encrypted file",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Flask and FastAPI are frameworks used to:",
+        "options": [
+          {
+            "text": "Create frontend websites only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Build APIs in Python",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Design databases",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Analyze CSV files",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The POST method is used to:",
+        "options": [
+          {
+            "text": "Retrieve data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Create new records",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Sort results",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Filter results",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A 404 HTTP status code indicates:",
+        "options": [
+          {
+            "text": "Success",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Server error",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Resource not found",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Unauthorized",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "CRUD stands for:",
+        "options": [
+          {
+            "text": "Create, Read, Update, Delete",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Copy, Run, Update, Deploy",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Connect, Render, Upload, Download",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Code, React, Use, Debug",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "SQL databases are best suited for:",
+        "options": [
+          {
+            "text": "Unstructured data only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Structured data with defined schema",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Image storage only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Static websites",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Firebase is primarily:",
+        "options": [
+          {
+            "text": "A relational database only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A cloud-based NoSQL backend platform",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A Python framework",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A plotting library",
+            "isRight": false,
+            "isWrong": true
+          }
+        ]
+      }
+    ]
+  },
+  "react_1": {
+    "score": "6",
+    "total": "10",
+    "questions": [
+      {
+        "question": "JavaScript is primarily used to:",
+        "options": [
+          {
+            "text": "Design hardware systems",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Add interactivity and logic to web pages",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Store database records permanently",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Replace HTML and CSS entirely",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "React is best described as:",
+        "options": [
+          {
+            "text": "A backend database",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A JavaScript library for building user interfaces",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A programming language",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A CSS framework",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "JavaScript powers React because React:",
+        "options": [
+          {
+            "text": "Is written in Python",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Uses JavaScript to define component logic and UI behavior",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Does not require JavaScript",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Only handles styling",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The main difference between frontend and backend is that frontend:",
+        "options": [
+          {
+            "text": "Handles database storage",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Runs on the server",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Runs in the browser and interacts with users",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Controls server security",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "To run JavaScript outside the browser during development, you need:",
+        "options": [
+          {
+            "text": "Photoshop",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Node.js",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "MySQL",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Excel",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT a primitive data type in JavaScript?",
+        "options": [
+          {
+            "text": "String",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Number",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Boolean",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Array",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What will be the type of: let x = null;",
+        "options": [
+          {
+            "text": "String",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Object",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Undefined",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Boolean",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which keyword prevents reassignment of a variable?",
+        "options": [
+          {
+            "text": "var",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "let",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "const",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "define",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which is a correct variable naming convention?",
+        "options": [
+          {
+            "text": "1name",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "user-name",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "userName",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "let",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Single-line comments in JavaScript are written using:",
+        "options": [
+          {
+            "text": "",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "//",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "#",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "**",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_2": {
+    "score": "7",
+    "total": "10",
+    "questions": [
+      {
+        "question": "What will this code output? let age = 18; if (age >= 18) { console.log(\"Adult\"); }",
+        "options": [
+          {
+            "text": "Minor",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Adult",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Undefined",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Error",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which operator checks both value and type equality?",
+        "options": [
+          {
+            "text": "==",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "=",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "===",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "!=",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Nested conditions are useful when:",
+        "options": [
+          {
+            "text": "Only one condition is required",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Multiple related checks must be evaluated",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Variables are undefined",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Loops are removed",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which is the correct way to create an array?",
+        "options": [
+          {
+            "text": "let arr = (1,2,3);",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "let arr = [1,2,3];",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "let arr = {1,2,3};",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "let arr = <1,2,3>;",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What is the index of the first element in an array?",
+        "options": [
+          {
+            "text": "1",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "-1",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "0",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Depends on size",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What does push() do?",
+        "options": [
+          {
+            "text": "Removes first element",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Adds element to the end of array",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Deletes entire array",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Sorts array",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What does pop() return?",
+        "options": [
+          {
+            "text": "First element",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Last element",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Array length",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Undefined always",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which loop is commonly used to iterate over arrays?",
+        "options": [
+          {
+            "text": "if",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "switch",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "for",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "try",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which condition checks if the first value is greater than 5?",
+        "options": [
+          {
+            "text": "numbers > 5",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "numbers[0] > 5",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "numbers(0) > 5",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "numbers.value > 5",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In React, dynamic data is rendered inside JSX using:",
+        "options": [
+          {
+            "text": "() parentheses",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "{} curly braces",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "[] brackets",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "<> tags",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_3": {
+    "score": "9",
+    "total": "10",
+    "questions": [
+      {
+        "question": "What is a function in JavaScript?",
+        "options": [
+          {
+            "text": "A data type",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A reusable block of code that performs a task",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A loop structure",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "An object property",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Why do we use functions?",
+        "options": [
+          {
+            "text": "To increase code repetition",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "To organize, reuse, and simplify logic",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "To replace variables",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "To avoid returning values",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which is the correct function declaration syntax?",
+        "options": [
+          {
+            "text": "A) function = greet() {}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "function greet() {}",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "greet function() {}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "def greet() {}",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In the function below, what is 5?function square(num) { return num * num; } square(5);",
+        "options": [
+          {
+            "text": "Parameter",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Argument",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Variable",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Method",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The purpose of the return statement is to:",
+        "options": [
+          {
+            "text": "Print output only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Send a value back from the function",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Stop variable creation",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Loop through arrays",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which is a function expression?",
+        "options": [
+          {
+            "text": "A) function add() {}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "let add = function() {};",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "add => function() {};",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "function = add() {};",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The arrow function equivalent of: function add(a, b) { return a + b; } is:",
+        "options": [
+          {
+            "text": "(a,b) => a + b",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "function => a + b",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "add(a,b) => {a + b}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "=> (a,b) a + b",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Default parameters are useful when:",
+        "options": [
+          {
+            "text": "Arguments are always passed",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A fallback value is needed if no argument is provided",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Functions return nothing",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Using objects only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A callback function is:",
+        "options": [
+          {
+            "text": "A function inside a loop only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A function passed as an argument to another function",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A function without return",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A recursive function",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "An object in JavaScript is:",
+        "options": [
+          {
+            "text": "A primitive data type",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A collection of key-value pairs",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A loop structure",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "An array method",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_4": {
+    "score": "7",
+    "total": "10",
+    "questions": [
+      {
+        "question": "How do you access the name property? let user = { name: \"John\", age: 22 };",
+        "options": [
+          {
+            "text": "user(name)",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "user->name",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "user.name",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "user[name] only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "How do you add a new property city to the object user?",
+        "options": [
+          {
+            "text": "user(city) = \"Delhi\";",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "user.city = \"Delhi\";",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "user -> city = \"Delhi\";",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "add user.city = \"Delhi\";",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A method inside an object is:",
+        "options": [
+          {
+            "text": "A loop",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A function stored as a property",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A variable",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "An array",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The this keyword inside an object method refers to:",
+        "options": [
+          {
+            "text": "Global object always",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "The current object calling the method",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "The window only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Undefined",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which statement about let vs const is correct?",
+        "options": [
+          {
+            "text": "const allows reassignment",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "let cannot be updated",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "const prevents reassignment of the variable",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Both are identical",
+            "isRight": false,
+            "isWrong": true
+          }
+        ]
+      },
+      {
+        "question": "Template literals use which symbol?",
+        "options": [
+          {
+            "text": "\" \"",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "' '",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "(backticks)",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "< >",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Destructuring allows you to:",
+        "options": [
+          {
+            "text": "Delete objects",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Extract values from arrays or objects into variables",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Merge arrays only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Loop automatically",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "forEach() is mainly used to:",
+        "options": [
+          {
+            "text": "Create new array",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Execute a function for each element",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Filter data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Sort automatically",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which method returns a new array with modified values?",
+        "options": [
+          {
+            "text": "forEach()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "forEach()",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "filter()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "push()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "What does filter() do?",
+        "options": [
+          {
+            "text": "Modifies original array directly",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Returns elements that satisfy a condition",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Deletes all elements",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Adds elements",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_5": {
+    "score": "7",
+    "total": "10",
+    "questions": [
+      {
+        "question": "React is best defined as:",
+        "options": [
+          {
+            "text": "A backend framework",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A JavaScript library for building user interfaces",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "A database system",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A CSS preprocessor",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "One major problem React solves is:",
+        "options": [
+          {
+            "text": "Server hosting",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Manual DOM manipulation complexity",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Database management",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "CSS styling",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A Single Page Application (SPA) loads:",
+        "options": [
+          {
+            "text": "Multiple HTML pages for each route",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "One HTML page and dynamically updates content",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Only backend APIs",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Static content only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Tools like Create React App or Vite help developers to:",
+        "options": [
+          {
+            "text": "Write backend logic",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Quickly set up a React development environment",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Replace JavaScript",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Deploy databases",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In a typical React project, reusable UI pieces are stored inside:",
+        "options": [
+          {
+            "text": "public folder",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "node_modules",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "components folder",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "package.json",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "JSX stands for:",
+        "options": [
+          {
+            "text": "Java Syntax Extension",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "JavaScript XML",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "JSON XML",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "JavaScript Execution",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Why is JSX used in React?",
+        "options": [
+          {
+            "text": "To replace JavaScript",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "To write HTML-like syntax inside JavaScript",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "To connect to backend",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "To style components only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which is correct in JSX?",
+        "options": [
+          {
+            "text": "class=\"box\"",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "className=\"box\"",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "class-box=\"box\"",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "class:box",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "How do you embed JavaScript inside JSX?",
+        "options": [
+          {
+            "text": "()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "[]",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "{}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "<>",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "React elements are rendered to the DOM using:",
+        "options": [
+          {
+            "text": "console.log()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "ReactDOM.createRoot().render()",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "alert()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "export default",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_6": {
+    "score": "9",
+    "total": "10",
+    "questions": [
+      {
+        "question": "Components in React are:",
+        "options": [
+          {
+            "text": "CSS files",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Reusable UI building blocks",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Database functions",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "API endpoints",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Functional components are preferred today mainly because:",
+        "options": [
+          {
+            "text": "They support Hooks",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "They are longer",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "They require classes",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "They avoid props",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Props are used to:",
+        "options": [
+          {
+            "text": "Store internal state",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Pass data from parent to child components",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Modify CSS",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Handle routing",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "State in React represents:",
+        "options": [
+          {
+            "text": "Static data",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Dynamic data that affects UI rendering",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "CSS rules",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "API endpoints",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The useState Hook returns:",
+        "options": [
+          {
+            "text": "One value",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "An array with state value and update function",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "An object",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Boolean only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Controlled inputs in React mean:",
+        "options": [
+          {
+            "text": "Input values managed by DOM only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Input values controlled by React state",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Inputs without validation",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Static input fields",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Lifting state up means:",
+        "options": [
+          {
+            "text": "Deleting state",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Moving state to a common parent to share between components",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Using global variables",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Avoiding props",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Conditional rendering in React is commonly done using:",
+        "options": [
+          {
+            "text": "CSS only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "if statements or ternary operators inside JSX",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "SQL queries",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Loop statements only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In class components, componentDidMount() is typically used to:",
+        "options": [
+          {
+            "text": "Remove components",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Run code after component is added to DOM",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Prevent rendering",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Update props",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "The useEffect Hook is mainly used for:",
+        "options": [
+          {
+            "text": "Styling components",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Handling side effects like API calls or subscriptions",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Creating components",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Managing routing",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_7": {
+    "score": "8",
+    "total": "10",
+    "questions": [
+      {
+        "question": "Events in React are used to:",
+        "options": [
+          {
+            "text": "Connect to database",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Connect to database",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Create components",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Style elements",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "React\u2019s Synthetic Events are:",
+        "options": [
+          {
+            "text": "Real DOM events only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Cross-browser wrapper around native events",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Server-side events",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "CSS triggers",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which event is commonly used for form submission?",
+        "options": [
+          {
+            "text": "onClick",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "onSubmit",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "onHover",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "onLoad",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In functional components, event binding is handled by:",
+        "options": [
+          {
+            "text": "bind() method in constructor",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Arrow functions or direct function reference",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Class methods only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Global functions",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "How do you pass a parameter to an event handler?",
+        "options": [
+          {
+            "text": "onClick={handleClick()}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "onClick={handleClick}",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "onClick={() => handleClick(id)}",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "onClick=handleClick(id)",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Props drilling occurs when:",
+        "options": [
+          {
+            "text": "Data is stored in global state",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Props are passed through multiple intermediate components",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "State is deleted",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "API calls are made",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "In React, data flow between parent and child is typically:",
+        "options": [
+          {
+            "text": "Child \u2192 Parent",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Two-way automatically",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "Parent \u2192 Child via props",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Random",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Child-to-parent communication is achieved using:",
+        "options": [
+          {
+            "text": "Direct state access",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Callback functions passed as props",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Global variables",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Synthetic events",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Lifting state up is necessary when:",
+        "options": [
+          {
+            "text": "Only one component uses the state",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Multiple sibling components need shared data",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "No props are used",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Using CSS",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "A controlled component means:",
+        "options": [
+          {
+            "text": "Input managed by browser only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Input value controlled by React state",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Input without validation",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Static form field",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  },
+  "react_final": {
+    "score": "8",
+    "total": "10",
+    "questions": [
+      {
+        "question": "Handling multiple inputs efficiently is commonly done using:",
+        "options": [
+          {
+            "text": "Separate state for each input always",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "A single state object with dynamic keys",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "No state",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Direct DOM manipulation",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Which attribute is used to link input field to state?",
+        "options": [
+          {
+            "text": "value",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "className",
+            "isRight": false,
+            "isWrong": true
+          },
+          {
+            "text": "id",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "name only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "To prevent page reload during form submission, you use:",
+        "options": [
+          {
+            "text": "stopPropagation()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "preventDefault()",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "stopReload()",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "resetForm()",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Basic validation logic is typically implemented:",
+        "options": [
+          {
+            "text": "Inside render only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Inside event handler before submission",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "After page reload",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Inside CSS",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Conditional error messages in React are displayed using:",
+        "options": [
+          {
+            "text": "Loops only",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Conditional rendering",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Inline HTML",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Direct DOM update",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Dynamic form fields are useful when:",
+        "options": [
+          {
+            "text": "Number of inputs is fixed",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Inputs depend on user actions",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Forms are static",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "No state is used",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Breaking UI into smaller reusable components improves:",
+        "options": [
+          {
+            "text": "Code duplication",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Maintainability and readability",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Complexity",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "File size only",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Prop destructuring helps to:",
+        "options": [
+          {
+            "text": "Delete props",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Access props directly without props.keyword",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Avoid passing props",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Prevent rendering",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "When adding tasks to a state array, the correct approach is:",
+        "options": [
+          {
+            "text": "Directly modify state array",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Use setState with a new updated array",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Delete previous tasks",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Use var instead of state",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      },
+      {
+        "question": "Marking a task as completed is typically handled by:",
+        "options": [
+          {
+            "text": "Removing it permanently",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Updating a boolean property (e.g., completed: true)",
+            "isRight": true,
+            "isWrong": false
+          },
+          {
+            "text": "Reloading the page",
+            "isRight": false,
+            "isWrong": false
+          },
+          {
+            "text": "Creating new component",
+            "isRight": false,
+            "isWrong": false
+          }
+        ]
+      }
+    ]
+  }
+}

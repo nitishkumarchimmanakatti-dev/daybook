@@ -1,0 +1,96 @@
+- id: daily-journal-log
+  title: Morning reflection log
+  schedule:
+    type: daily
+  due_time: 08:00
+  mode: delegate
+  status: open
+  requires_approval: false
+  notes: Record start of daily work in journal
+  action:
+    name: log_note
+    text: Started day with morning planning and coffee.
+- id: daily-standup-draft
+  title: Prepare morning standup update
+  schedule:
+    type: daily
+  due_time: 08:30
+  mode: delegate
+  status: open
+  requires_approval: false
+  notes: Draft daily sync update for team
+  action:
+    name: draft_message
+    subject: Daily Standup Notes
+    body: '1. What did I accomplish yesterday?
+
+      2. What will I work on today?
+
+      3. Any blockers?'
+- id: organize-downloads
+  title: Archive weekly receipts from Downloads
+  schedule:
+    type: weekly
+    days:
+    - mon
+    - wed
+    - fri
+  due_time: 09:00
+  mode: delegate
+  status: open
+  requires_approval: true
+  notes: Move receipt PDF from ~/Downloads into ~/Daybook/Archive/
+  action:
+    name: move_file
+    filename: receipt.pdf
+- id: create-monthly-folder
+  title: Create monthly project folder
+  schedule:
+    type: weekly
+    days:
+    - mon
+  due_time: 09:30
+  mode: delegate
+  status: open
+  requires_approval: true
+  notes: Prepare folder under ~/Daybook for projects
+  action:
+    name: create_folder
+    folder: projects
+- id: exercise-reminder
+  title: Midday walk or workout
+  schedule:
+    type: daily
+  due_time: '12:30'
+  mode: remind
+  status: open
+  requires_approval: false
+  notes: Step away from screen for 30 minutes
+- id: project-milestone
+  title: Deliver Phase 1 submission
+  schedule:
+    type: once
+    date: '2026-11-04'
+  due_time: '17:00'
+  mode: remind
+  status: open
+  requires_approval: false
+  notes: Verify all automated test suites and documentation
+- id: edutraner-intern-login
+  title: Login to EduTrainer Intern portal
+  schedule:
+    type: daily
+  due_time: '11:00'
+  mode: remind
+  status: open
+  requires_approval: false
+  notes: Complete check-in and attendance on EduTrainer portal
+- id: vtu-portal-diary-entry
+  title: Enter daily diary in VTU portal
+  schedule:
+    type: daily
+  due_time: '11:00'
+  mode: remind
+  status: open
+  requires_approval: false
+  notes: Submit daily internship activity report / diary entry on VTU portal
