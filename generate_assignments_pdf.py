@@ -126,10 +126,4 @@ with sync_playwright() as p:
     page.pdf(path=str(PROJECT_PDF), format="A4", margin={"top": "20mm", "bottom": "20mm", "left": "15mm", "right": "15mm"})
     print(f"Generated PDF: {PDF_PATH}")
 
-# Send PDF and notification to Telegram
-try:
-    send_telegram_document(str(PROJECT_PDF), caption="📄 VTU Online LMS — Complete Assignments & Quiz Submissions Record (All 4 Exams / 100 Questions)")
-    print("Dispatched PDF to Telegram bot!")
-except Exception as e:
-    print("Telegram dispatch error:", e)
 
