@@ -102,8 +102,19 @@ def login_edutainer(headless: bool = True) -> Tuple[bool, str]:
             )
             page = context.new_page()
 
-            # 1. Navigate to login
-            page.goto(LOGIN_URL, wait_until="networkidle", timeout=30000)
+            # 1. Navigate to login with connection retries
+            connected = False
+            for attempt in range(1, 4):
+                try:
+                    page.goto(LOGIN_URL, wait_until="networkidle", timeout=25000)
+                    connected = True
+                    break
+                except Exception as conn_err:
+                    if attempt < 3:
+                        import time
+                        time.sleep(15)
+                    else:
+                        raise conn_err
 
             # 2. Fill Email / Phone
             email_input = page.locator('input[type="email"], input[type="text"], input[placeholder*="Email"]').first
