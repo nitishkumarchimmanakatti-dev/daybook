@@ -10,6 +10,7 @@ import json
 import os
 from pathlib import Path
 import subprocess
+import sys
 import threading
 import time
 from typing import Optional, Tuple
@@ -24,11 +25,12 @@ TARGET_URL = "https://www.internship.edutainer.in/student/my-learning"
 
 
 def auto_delete_after_viewing(file_path: Path, delay_seconds: int = 15) -> None:
-    """Open screenshot in Preview so the user sees it, then delete it automatically."""
-    try:
-        subprocess.run(["open", str(file_path)], check=False)
-    except Exception:
-        pass
+    """Delete temporary screenshot automatically after a delay to preserve storage."""
+    if sys.stdout.isatty():
+        try:
+            subprocess.run(["open", str(file_path)], check=False)
+        except Exception:
+            pass
 
     # Launch detached background cleanup so it deletes even after Python exits
     cleanup_cmd = f"sleep {delay_seconds} && rm -f '{file_path}'"
@@ -82,6 +84,7 @@ def login_edutainer(headless: bool = True) -> Tuple[bool, str]:
     email, password = get_credentials()
     if not email or not password:
         return False, "Missing credentials for EduTrainer login."
+    save_credentials(email, password)
 
     screenshot_dir = get_daybook_dir() / "screenshots"
     screenshot_dir.mkdir(parents=True, exist_ok=True)

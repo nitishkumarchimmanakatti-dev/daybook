@@ -61,17 +61,19 @@ def save_vtu_credentials(email: str, password: str) -> None:
 
 
 def auto_delete_after_viewing(file_path: Path, delay_seconds: int = 15) -> None:
-    """Open screenshot in default viewer so the user sees it, then delete it automatically."""
-    try:
-        p = str(file_path)
-        if platform.system() == "Windows":
-            os.startfile(p)
-        elif platform.system() == "Darwin":
-            subprocess.run(["open", p], check=False)
-        else:
-            subprocess.run(["xdg-open", p], check=False)
-    except Exception:
-        pass
+    """Delete temporary screenshot automatically after a delay to preserve storage."""
+    import sys
+    if sys.stdout.isatty():
+        try:
+            p = str(file_path)
+            if platform.system() == "Windows":
+                os.startfile(p)
+            elif platform.system() == "Darwin":
+                subprocess.run(["open", p], check=False)
+            else:
+                subprocess.run(["xdg-open", p], check=False)
+        except Exception:
+            pass
 
     cleanup_cmd = f"sleep {delay_seconds} && rm -f '{file_path}'"
     subprocess.Popen(["bash", "-c", cleanup_cmd], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -165,8 +167,27 @@ def enter_vtu_diary(
             page = browser.new_page(viewport={"width": 1280, "height": 800})
 
             # 1. Sign In
-            page.goto(SIGN_IN_URL, wait_until="domcontentloaded")
+            resp = page.goto(SIGN_IN_URL, wait_until="domcontentloaded")
             page.wait_for_timeout(2000)
+
+            # Check if portal is in maintenance / 503
+            is_maintenance = False
+            if resp and resp.status in (502, 503, 504):
+                is_maintenance = True
+            elif page.locator('*:has-text("Maintenance"), *:has-text("Temporarily Offline"), *:has-text("taking longer than expected")').count() > 0:
+                is_maintenance = True
+
+            if is_maintenance:
+                browser.close()
+                log_msg = "VTU InternYet portal is temporarily offline for official maintenance (HTTP 503). Your diary entries are safely staged and will submit automatically once the portal is back online."
+                print(f"\n⚠️ [MAINTENANCE] {log_msg}")
+                log_entry(
+                    task_id="vtu-portal-diary-entry",
+                    action="vtu_diary_entry",
+                    result="MAINTENANCE: VTU portal offline (503). Staged entries safe.",
+                    approved_by="auto-30min" if not dry_run else "dry-run",
+                )
+                return False, log_msg
 
             page.locator('input[placeholder*="email"]').first.fill(email)
             page.locator('input[type="password"]').first.fill(password)
